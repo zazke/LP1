@@ -1,0 +1,1099 @@
+                       EMPRESA PRESTADORA DE SALUD
+================================================================================
+ESPECIALIDADES A VERIFICAR: PEDIATRIA Y GINECOLOGIA
+fecha del proceso: 2/9/2022
+================================================================================
+Medico: EDGAR_MUNOZ_VERGEL_Urologia[LF50611]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 43704548 Vizcardo/Maribel                                    59121 DESLORATADINA_5MG_10T 9/09/2022 VENCIDO
+10) 36471787 Pena/Glenda                                    46919 VITAMINA_C_C20_TAB_100MG 16/01/2023 VENCIDO
+                                   92517 ISOCONAZOL_CR_20GR_GI 2/08/2022 VENCIDO
+                                   22232 LEVETIRACETAM 12/02/2023 VENCIDO
+                                   26484 DILTIAZEM_30_TAB/30_MG 29/08/2022 VENCIDO
+                                   76596 CEFADROXILO_250MG_SUSP 18/12/2022 VENCIDO
+10) 71422479 Lozada/Felicita                                    18672 TINIDAZOL_500MG_8T 17/08/2022 VENCIDO
+                                   75565 MICONAZOL_20_GR_CRA 23/09/2022 VENCIDO
+                                   37007 DIFENHIDRAMINA_250MG_JBE_120ML 17/08/2022 VENCIDO
+10) 51465986 Sam/Ines                                    22842 AMIKACINA_500MG_C/1_AMP 5/08/2022 VENCIDO
+10) 20371464 Lozada/Heli                                    24522 LEVOFLOXACINO_500MG_C/7_TAB 28/08/2022 VENCIDO
+                                   44253 PROGESTERONA+ESTRADIOL_50/5_AMP 22/11/2022 VENCIDO
+                                   68730 MELOXICAM_7.5_MG_C/14 26/10/2022 VENCIDO
+                                   31389 BETAMETASONA_4_MG/ML 12/09/2022 VENCIDO
+                                   92628 KETOPROFENO_100MG_C15 30/03/2023 VENCIDO
+10) 36934113 Serrano/Arturo                                    37007 DIFENHIDRAMINA_250MG_JBE_120ML 17/08/2022 VENCIDO
+                                   33390 CORTILONA_CRA_30GR 29/12/2022 VENCIDO
+                                   73174 VITAMINA_P/DIABETICOS_30T 30/03/2023 VENCIDO
+                                   30690 VITAMINAS_EMBARAZO_9_MESES_C30 9/09/2022 VENCIDO
+                                   39172 IBUPROFENO_400MG_T10 7/08/2022 VENCIDO
+Medico: LUZ_SOFIA_JAUREGUI_BRAVO_Dermatologia[JY15092]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 15290194 Hernandez/Guillermo                                    81960 CEFALEXINA_500MG_C/20_CAP 9/02/2023 VENCIDO
+                                   27447 OXIDO_DE_ZINC_TUBO_PASTA_30GR 16/11/2022 VENCIDO
+                                   61039 NISTATINA_GI_C/12_TAB 16/11/2022 VENCIDO
+                                   61211 OFLOXACINO_400_MG_C/8 28/02/2023 VENCIDO
+10) 20371464 Lozada/Heli                                    17645 KETOKONAZOL_CRA_30GR 12/08/2022 VENCIDO
+10) 85395219 Fuentes/Patricia                                    86476 KETOTIFENO_C/30 26/01/2023 VENCIDO
+                                   70024 METILDOPA_250_MG_30_TAB 4/08/2022 VENCIDO
+                                   48244 CLORANFENICOL_SOL_OFT_10ML 25/08/2022 VENCIDO
+                                   77466 RAMIPRIL_16_TAB/5_MG 2/08/2022 VENCIDO
+                                   30430 PRUEBA_DE_EMBARAZO 10/08/2022 VENCIDO
+10) 93961840 Pairazaman/Tatiana                                    58259 SULFADIAZINA_DE_PLATA_CRA_28GR 2/10/2022 VENCIDO
+                                   96031 CETIRIZINA_10_MG_TABS_C/10 20/08/2022 VENCIDO
+                                   65536 NEOM/POLIMIX/GRAMIC_15_ML_GTS 15/11/2022 VENCIDO
+                                   60086 METAMISOL_500_MG_T10 29/08/2022 VENCIDO
+                                   36208 ENALAPRIL_T/30_10MG 24/08/2022 VENCIDO
+10) 61061535 Solis/Maria                                    92517 ISOCONAZOL_CR_20GR_GI 2/08/2022 VENCIDO
+10) 62126128 Durand/Enrique                                    61211 OFLOXACINO_400_MG_C/8 28/02/2023 VENCIDO
+                                   14075 CLOTRIMAZOL_C/6_CPR_VAG 3/04/2023 VENCIDO
+                                   16681 SIBUTRAMINA_10_MG_C15 21/09/2022 VENCIDO
+10) 85395219 Fuentes/Patricia                                    18672 TINIDAZOL_500MG_8T 17/08/2022 VENCIDO
+                                   30690 VITAMINAS_EMBARAZO_9_MESES_C30 9/09/2022 VENCIDO
+                                   73174 VITAMINA_P/DIABETICOS_30T 30/03/2023 VENCIDO
+                                   16813 VANCOMICINA_500MG_SOL_INY 13/01/2023 VENCIDO
+10) 54815159 Patino/Delicia                                    91653 SAL_DE_UVAS_PICOT 3/08/2022 VENCIDO
+                                   26506 ITRACONAZOL_100_MG_C/15 18/08/2022 VENCIDO
+                                   46919 VITAMINA_C_C20_TAB_100MG 16/01/2023 VENCIDO
+                                   70950 LIDOCAINA_10%_115ML_SPRAY 16/08/2022 VENCIDO
+                                   55439 FUMARATO_FERROSO_SUSP_120ML 7/11/2022 VENCIDO
+Medico: SURAMI_HELI_PRECIADO_PINTO_Traumatologia[YM60184]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 91187814 Narvaez/Jesus                                    86681 HIDROCLOROTIAZIDA_25_MG_20TAB 27/08/2022 VENCIDO
+10) 71422479 Lozada/Felicita                                    46000 HIDROX_MAGNESIO+ALUMINIO_240ML 1/10/2022 VENCIDO
+                                   46000 HIDROX_MAGNESIO+ALUMINIO_240ML 1/10/2022 VENCIDO
+                                   37007 DIFENHIDRAMINA_250MG_JBE_120ML 17/08/2022 VENCIDO
+                                   86451 TRIMEBUTINA_100MG/5ML_SUSP 1/09/2022 VENCIDO
+                                   84555 PARACETAMOL_300MG_C/5_SUP 4/04/2023 VENCIDO
+10) 51642949 Miranda/Alfonso                                    17790 DICLOFENACO_100MG_20T 9/02/2023 VENCIDO
+10) 45201670 Guevara/Milena                                    48557 NAPROXENO_SODICO_100/2.5_SUSP 18/03/2023 VENCIDO
+                                   86681 HIDROCLOROTIAZIDA_25_MG_20TAB 27/08/2022 VENCIDO
+                                   34027 DANAZOL_100MG_50T 6/12/2022 VENCIDO
+                                   28992 ALUMUMINIO+MAGNESIO_SUSP_240ML 12/03/2023 VENCIDO
+                                   67784 LOSARTAN_50MG_C/10T 20/12/2022 VENCIDO
+Medico: GIOVANA_MEJIA_ZEGARRA_Traumatologia[EG90798]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 31284904 Sakaguchi/Carlos                                    43222 AMBROXOL_GOTAS_30ML 26/08/2022 VENCIDO
+                                   47734 MICRODACYN_60_SOL_240ML 16/08/2022 VENCIDO
+                                   98261 ACICLOVIR_200_MG_C/25_CPR 30/08/2022 VENCIDO
+10) 71422479 Lozada/Felicita                                    80839 CARBAMAZEPINA_120ML_SUSP 19/08/2022 VENCIDO
+10) 93282118 Zambrano/Ofelia                                    47697 CLINDAMICINA_300_MG_C/16 6/08/2022 VENCIDO
+                                   34027 DANAZOL_100MG_50T 6/12/2022 VENCIDO
+                                   55021 AMOXICILINA_500MG/5ML_SUSP 27/08/2022 VENCIDO
+                                   79189 CLORFENAMINA_4MG_T20 21/08/2022 VENCIDO
+10) 34697743 Ayala/Ericka                                    22842 AMIKACINA_500MG_C/1_AMP 5/08/2022 VENCIDO
+                                   79996 LANSOPRAZOL_15_MG_C/14 23/08/2022 VENCIDO
+10) 68114999 Rios/Ines                                    95196 DIGOXINA_0.250_MG_C/24 14/08/2022 VENCIDO
+                                   77203 ONDANSETRON_8MG_C10T 8/08/2022 VENCIDO
+                                   53166 ASTEMIZOL_SUSP_200MG 17/08/2022 VENCIDO
+                                   57036 OXOLAMINA_JBE_100ML 15/10/2022 VENCIDO
+10) 95656771 Raffo/Rolando                                    49685 PINAVERIO_BROMURO_DE_100_MG_14T 6/02/2023 VENCIDO
+                                   64347 DIFENHIDRAMINA_25MG_C30 26/08/2022 VENCIDO
+                                   22232 LEVETIRACETAM 12/02/2023 VENCIDO
+                                   82528 LORATADINA_T/10_10MG 4/01/2023 VENCIDO
+10) 54149342 Leyva/Diana                                    98261 ACICLOVIR_200_MG_C/25_CPR 30/08/2022 VENCIDO
+                                   98679 DOXICICLINA_100MG_10_CAPS 19/09/2022 VENCIDO
+10) 99891737 Contreras/Johana                                    30796 PROPANOLOL_40_MG_C/20_TAB 15/08/2022 VENCIDO
+                                   30428 PROPAFENONA_150_MG/20_TAB 29/12/2022 VENCIDO
+                                   58200 FLUCONAZOL_150MG._1C 27/11/2022 VENCIDO
+                                   22842 AMIKACINA_500MG_C/1_AMP 5/08/2022 VENCIDO
+                                   61039 NISTATINA_GI_C/12_TAB 16/11/2022 VENCIDO
+Medico: ROSARIO_MARIBEL_YEP_ZAVALETA_Ginecologia[LI80786]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 54815159 Patino/Delicia                                    94429 TIAMAZOL_5MG_20T 27/10/2022 VENCIDO
+                                   31189 CEFADROXILO_500MG_C/16CAP 3/12/2022 VENCIDO
+                                   28892 GLIMEPIRIDA_2MG_C30 3/03/2023 VENCIDO
+10) 93939698 Henriquez/Silvana                                    96554 PIROXICAM_20MG_T20 29/08/2022 VENCIDO
+                                   26360 VITAMINAS_A_C_Y_D_3AMP/3ML_ING 4/08/2022 VENCIDO
+                                   42053 TRETINOINA_30G_CREMA_0.05% 1/08/2022 VENCIDO
+                                   33311 ALBENDAZOL_200MG_C/6_TAB 9/08/2022 VENCIDO
+10) 62126128 Durand/Enrique                                    42053 TRETINOINA_30G_CREMA_0.05% 1/08/2022 VENCIDO
+                                   26920 HIDRALAZINA_20T_10MG 1/09/2022 VENCIDO
+                                   47734 MICRODACYN_60_SOL_240ML 16/08/2022 VENCIDO
+10) 32538825 Hijar/Martin                                    96031 CETIRIZINA_10_MG_TABS_C/10 20/08/2022 VENCIDO
+10) 63640178 Rodriguez/Blanca                                    19397 ORLISTAT_/_21_CAP_120_MG 4/10/2022 VENCIDO
+                                   61295 QUINFAMIDA_100_MG_3TAB 18/08/2022 VENCIDO
+                                   72969 ISOSORBIDE_10MG_T/20 6/02/2023 VENCIDO
+                                   34066 SULINDACO_200MG/20_TAB 14/12/2022 VENCIDO
+                                   83510 FUROSEMIDA_40_MG_C/20 8/11/2022 VENCIDO
+10) 35852072 Jauregui/Victor                                    33200 GLUCOSAMINA_30C_500MG 14/12/2022 VENCIDO
+                                   68730 MELOXICAM_7.5_MG_C/14 26/10/2022 VENCIDO
+                                   70225 CEFTRIAXONA_1.0GR_IM_G_I 4/12/2022 VENCIDO
+                                   77358 LOPERAMIDA_T/12_2MG 16/12/2022 VENCIDO
+Medico: CINTHIA_MILENA_ZEGARRA_CABELLO_Ginecologia[PX70233]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 72330000 Vega/Carmela                                    37549 TOPIRAMATO_100MG_20T 26/08/2022 VENCIDO
+10) 93961840 Pairazaman/Tatiana                                    31883 ACIDO_NALIDIXICO_SUSP 13/08/2022 VENCIDO
+                                   44215 DICICLOVERINA_10MG_30T 14/08/2022 VENCIDO
+10) 93939698 Henriquez/Silvana                                    84555 PARACETAMOL_300MG_C/5_SUP 4/04/2023 VENCIDO
+                                   77203 ONDANSETRON_8MG_C10T 8/08/2022 VENCIDO
+                                   36711 TIBOLONA_2.5MG_30T 29/08/2022 VENCIDO
+                                   42861 BENCIDAMIDA_CRA_5%_60GR 25/08/2022 VENCIDO
+10) 36934113 Serrano/Arturo                                    26920 HIDRALAZINA_20T_10MG 1/09/2022 VENCIDO
+                                   65536 NEOM/POLIMIX/GRAMIC_15_ML_GTS 15/11/2022 VENCIDO
+                                   86681 HIDROCLOROTIAZIDA_25_MG_20TAB 27/08/2022 VENCIDO
+                                   43633 ERITROMICINA_T_250_MG_C/20 15/12/2022 VENCIDO
+10) 80694546 Ramirez/Karina                                    36711 TIBOLONA_2.5MG_30T 29/08/2022 VENCIDO
+                                   49685 PINAVERIO_BROMURO_DE_100_MG_14T 6/02/2023 VENCIDO
+10) 63640178 Rodriguez/Blanca                                    76247 FLUOCINOLONA_CREMA_30G 14/01/2023 VENCIDO
+10) 68114999 Rios/Ines                                    37549 TOPIRAMATO_100MG_20T 26/08/2022 VENCIDO
+                                   42053 TRETINOINA_30G_CREMA_0.05% 1/08/2022 VENCIDO
+                                   70303 AZITROMICINA_SUSP 21/01/2023 VENCIDO
+                                   65985 LAMOTRIGINA_100MG_TAB_28 16/02/2023 VENCIDO
+10) 81647285 Vega/Henrry                                    36622 TEOFILINA_20_TAB/100_MG 15/03/2023 VENCIDO
+                                   91653 SAL_DE_UVAS_PICOT 3/08/2022 VENCIDO
+                                   89325 DIMENHIDRINATO_24_T_50MG 13/08/2022 VENCIDO
+                                   43222 AMBROXOL_GOTAS_30ML 26/08/2022 VENCIDO
+                                   30690 VITAMINAS_EMBARAZO_9_MESES_C30 9/09/2022 VENCIDO
+Medico: DELIA_ZARATE_URBINA_Gastroenterologia[RY89213]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 72973662 Vargas/Daniel                                    80839 CARBAMAZEPINA_120ML_SUSP 19/08/2022 VENCIDO
+                                   49685 PINAVERIO_BROMURO_DE_100_MG_14T 6/02/2023 VENCIDO
+                                   42856 FELODIPINO_5_MG_20T 17/08/2022 VENCIDO
+10) 31284904 Sakaguchi/Carlos                                    30220 AMOXICILINA+BROMEXINA_C12 17/11/2022 VENCIDO
+                                   47734 MICRODACYN_60_SOL_240ML 16/08/2022 VENCIDO
+10) 54815159 Patino/Delicia                                    22232 LEVETIRACETAM 12/02/2023 VENCIDO
+                                   31189 CEFADROXILO_500MG_C/16CAP 3/12/2022 VENCIDO
+                                   48244 CLORANFENICOL_SOL_OFT_10ML 25/08/2022 VENCIDO
+                                   55701 EUCALIPTO_GUAYACOL_PERLAS30 2/02/2023 VENCIDO
+                                   43222 AMBROXOL_GOTAS_30ML 26/08/2022 VENCIDO
+10) 72973662 Vargas/Daniel                                    17790 DICLOFENACO_100MG_20T 9/02/2023 VENCIDO
+                                   28992 ALUMUMINIO+MAGNESIO_SUSP_240ML 12/03/2023 VENCIDO
+                                   58252 KETOTIFENO_SOL_120ML 29/08/2022 VENCIDO
+10) 93231760 Zarate/Alexander                                    94429 TIAMAZOL_5MG_20T 27/10/2022 VENCIDO
+10) 77324146 Moscoso/Janet                                    26754 SILDENAFIL_50MG_C/1-TAB 25/10/2022 VENCIDO
+                                   28219 NITAZOXANIDA_200_MG_T6 4/08/2022 VENCIDO
+                                   76247 FLUOCINOLONA_CREMA_30G 14/01/2023 VENCIDO
+                                   58252 KETOTIFENO_SOL_120ML 29/08/2022 VENCIDO
+                                   75565 MICONAZOL_20_GR_CRA 23/09/2022 VENCIDO
+Medico: FIORELLA_ERIKA_FLORENCIO_POLO_Dermatologia[EP90907]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 72330000 Vega/Carmela                                    60685 NITROFURANTOINA_C40_100MG 9/02/2023 VENCIDO
+                                   42861 BENCIDAMIDA_CRA_5%_60GR 25/08/2022 VENCIDO
+                                   36711 TIBOLONA_2.5MG_30T 29/08/2022 VENCIDO
+                                   68860 METFORMINA_850MG_T30 20/10/2022 VENCIDO
+                                   95540 NAPROXENO_500_MG_C/10_TAB 12/10/2022 VENCIDO
+10) 61061535 Solis/Maria                                    26484 DILTIAZEM_30_TAB/30_MG 29/08/2022 VENCIDO
+                                   86828 FENAZOPIRIDINA_100_MG_C/20_TAB 11/08/2022 VENCIDO
+10) 72973662 Vargas/Daniel                                    30428 PROPAFENONA_150_MG/20_TAB 29/12/2022 VENCIDO
+                                   58200 FLUCONAZOL_150MG._1C 27/11/2022 VENCIDO
+                                   30228 METOPROLOL_20T/100 22/10/2022 VENCIDO
+                                   65667 SUBSALICILATO/BISMUTO_SUSP_120ML 29/11/2022 VENCIDO
+10) 51873364 Calixto/Erick                                    30228 METOPROLOL_20T/100 22/10/2022 VENCIDO
+                                   53166 ASTEMIZOL_SUSP_200MG 17/08/2022 VENCIDO
+                                   36208 ENALAPRIL_T/30_10MG 24/08/2022 VENCIDO
+                                   28992 ALUMUMINIO+MAGNESIO_SUSP_240ML 12/03/2023 VENCIDO
+                                   92517 ISOCONAZOL_CR_20GR_GI 2/08/2022 VENCIDO
+10) 45914393 Lozada/Antonio                                    79189 CLORFENAMINA_4MG_T20 21/08/2022 VENCIDO
+                                   92517 ISOCONAZOL_CR_20GR_GI 2/08/2022 VENCIDO
+                                   93578 SUCRALFATO_40_TAB/1G 8/11/2022 VENCIDO
+10) 35347567 Sedano/Elia                                    76238 BEZOCAINA_10GR_GEL 7/04/2023 VENCIDO
+                                   81695 LECHE_DE_MAGNESIA_180ML 3/03/2023 VENCIDO
+10) 34571095 Infantes/Luis                                    40997 ELECTROLIT_PED_FRESA_625ML 2/04/2023 VENCIDO
+                                   49644 HIDROCORTISONA_CRA_30GR 14/08/2022 VENCIDO
+                                   51148 PANTOPRAZOL_40MG_C/14 17/10/2022 VENCIDO
+10) 54149342 Leyva/Diana                                    43222 AMBROXOL_GOTAS_30ML 26/08/2022 VENCIDO
+                                   79996 LANSOPRAZOL_15_MG_C/14 23/08/2022 VENCIDO
+10) 36934113 Serrano/Arturo                                    58200 FLUCONAZOL_150MG._1C 27/11/2022 VENCIDO
+                                   26360 VITAMINAS_A_C_Y_D_3AMP/3ML_ING 4/08/2022 VENCIDO
+                                   60685 NITROFURANTOINA_C40_100MG 9/02/2023 VENCIDO
+                                   73972 VITAMINA_E_400_MG_C90_CAPS 5/08/2022 VENCIDO
+                                   15098 LISINA_CLOHRIDRATO_125MG_T10 16/09/2022 VENCIDO
+10) 49357767 Solis/Rolando                                    28992 ALUMUMINIO+MAGNESIO_SUSP_240ML 12/03/2023 VENCIDO
+                                   30220 AMOXICILINA+BROMEXINA_C12 17/11/2022 VENCIDO
+                                   26754 SILDENAFIL_50MG_C/1-TAB 25/10/2022 VENCIDO
+                                   81821 AMIODARONA_200MG_T20 21/11/2022 VENCIDO
+Medico: OFELIA_CARMEN_MERCADO_CARO_Neumologia[RN60934]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 13731806 Salamanca/Virginia                                    93578 SUCRALFATO_40_TAB/1G 8/11/2022 VENCIDO
+                                   42856 FELODIPINO_5_MG_20T 17/08/2022 VENCIDO
+                                   70225 CEFTRIAXONA_1.0GR_IM_G_I 4/12/2022 VENCIDO
+                                   70807 LINCOMICINA_600_MG_INY_C/3 20/08/2022 VENCIDO
+                                   25684 DEXAMETASONA_0.5MG_T/30 18/03/2023 VENCIDO
+10) 22679759 Bravo/Janet                                    53846 CLENBUTEROL_.02MG_50T 7/03/2023 VENCIDO
+                                   58036 PENTOXIFILINA_400MG_T30 12/03/2023 VENCIDO
+                                   31189 CEFADROXILO_500MG_C/16CAP 3/12/2022 VENCIDO
+10) 94683380 Farfan/Margot                                    84766 CIPROFLOXACINO_SOL.OFT_5MG 17/08/2022 VENCIDO
+10) 92275859 Egusquiza/Doris                                    77466 RAMIPRIL_16_TAB/5_MG 2/08/2022 VENCIDO
+                                   26506 ITRACONAZOL_100_MG_C/15 18/08/2022 VENCIDO
+10) 35606314 Mercado/Elia                                    84555 PARACETAMOL_300MG_C/5_SUP 4/04/2023 VENCIDO
+                                   24522 LEVOFLOXACINO_500MG_C/7_TAB 28/08/2022 VENCIDO
+10) 51465986 Sam/Ines                                    37007 DIFENHIDRAMINA_250MG_JBE_120ML 17/08/2022 VENCIDO
+                                   41995 DIMETICONA_SUSP_100MG_30ML 30/08/2022 VENCIDO
+10) 93282118 Zambrano/Ofelia                                    41995 DIMETICONA_SUSP_100MG_30ML 30/08/2022 VENCIDO
+                                   64347 DIFENHIDRAMINA_25MG_C30 26/08/2022 VENCIDO
+Medico: WALTER_JOLAY_CHUMPITAZ_Traumatologia[KG14787]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 20371464 Lozada/Heli                                    48039 TRAMADOL_100MG_5AMP 13/09/2022 VENCIDO
+                                   52072 BROMOCRIPTINA_2.5MG_C/14TAB 22/08/2022 VENCIDO
+                                   84766 CIPROFLOXACINO_SOL.OFT_5MG 17/08/2022 VENCIDO
+                                   41995 DIMETICONA_SUSP_100MG_30ML 30/08/2022 VENCIDO
+10) 65912822 Camacho/Ydali                                    47697 CLINDAMICINA_300_MG_C/16 6/08/2022 VENCIDO
+                                   90198 NITROFURAL_6MG_6/OV 1/08/2022 VENCIDO
+10) 91187814 Narvaez/Jesus                                    39088 NORFLOXACINO_T20_400MG 16/08/2022 VENCIDO
+                                   24522 LEVOFLOXACINO_500MG_C/7_TAB 28/08/2022 VENCIDO
+                                   51148 PANTOPRAZOL_40MG_C/14 17/10/2022 VENCIDO
+10) 59561864 Rosemberg/Julio                                    72939 VITIS_VINIFERA_(UVA)_60C 17/12/2022 VENCIDO
+10) 54149342 Leyva/Diana                                    34070 FEXOFENADINA_C/10_180MG 18/03/2023 VENCIDO
+                                   26506 ITRACONAZOL_100_MG_C/15 18/08/2022 VENCIDO
+Medico: HUMBERTO_ALBERTO_VARGAS_GUEVARA_Gastroenterologia[ST60049]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 62126128 Durand/Enrique                                    51148 PANTOPRAZOL_40MG_C/14 17/10/2022 VENCIDO
+                                   27447 OXIDO_DE_ZINC_TUBO_PASTA_30GR 16/11/2022 VENCIDO
+10) 59596317 Justino/Virginia                                    77358 LOPERAMIDA_T/12_2MG 16/12/2022 VENCIDO
+10) 51642949 Miranda/Alfonso                                    65985 LAMOTRIGINA_100MG_TAB_28 16/02/2023 VENCIDO
+                                   70113 TETRACICLINA_250MG_10T 30/10/2022 VENCIDO
+                                   89528 CLORMADINONA_2MG_20T 27/03/2023 VENCIDO
+10) 20371464 Lozada/Heli                                    76238 BEZOCAINA_10GR_GEL 7/04/2023 VENCIDO
+                                   28219 NITAZOXANIDA_200_MG_T6 4/08/2022 VENCIDO
+10) 52313890 Rivero/Wilver                                    60888 CAPTOPRIL_25MG_30T 17/08/2022 VENCIDO
+                                   30430 PRUEBA_DE_EMBARAZO 10/08/2022 VENCIDO
+                                   81821 AMIODARONA_200MG_T20 21/11/2022 VENCIDO
+10) 32538825 Hijar/Martin                                    88266 PREDNISONA_20MG_C30_TAB_GI 10/03/2023 VENCIDO
+10) 54815159 Patino/Delicia                                    62008 LISINOPRIL_T/30_10_MG 23/02/2023 VENCIDO
+10) 37282858 Soma/Lourdes                                    96554 PIROXICAM_20MG_T20 29/08/2022 VENCIDO
+                                   37007 DIFENHIDRAMINA_250MG_JBE_120ML 17/08/2022 VENCIDO
+                                   17845 GINKO_YANG_CAPS_C/30 16/08/2022 VENCIDO
+Medico: DELICIA_ARCA_AQUINO_Dermatologia[NI70269]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 27709566 Ortiz/Raul                                    36822 CLARITROMICINA_125MG_SUSP 23/08/2022 VENCIDO
+                                   30007 DICLOFENACO_SODICO_1MG_GTS_5_ML 30/10/2022 VENCIDO
+                                   91653 SAL_DE_UVAS_PICOT 3/08/2022 VENCIDO
+                                   85865 PLANTAGO_PSYLLIUM_400GR._GI 17/10/2022 VENCIDO
+                                   26484 DILTIAZEM_30_TAB/30_MG 29/08/2022 VENCIDO
+10) 45914393 Lozada/Antonio                                    80839 CARBAMAZEPINA_120ML_SUSP 19/08/2022 VENCIDO
+                                   30220 AMOXICILINA+BROMEXINA_C12 17/11/2022 VENCIDO
+                                   30430 PRUEBA_DE_EMBARAZO 10/08/2022 VENCIDO
+                                   84766 CIPROFLOXACINO_SOL.OFT_5MG 17/08/2022 VENCIDO
+                                   85641 TAMOXIFENO_10MG_30T 8/08/2022 VENCIDO
+10) 43704548 Vizcardo/Maribel                                    85325 AMOXICILINA_250MG_C12 1/08/2022 VENCIDO
+                                   37549 TOPIRAMATO_100MG_20T 26/08/2022 VENCIDO
+                                   55021 AMOXICILINA_500MG/5ML_SUSP 27/08/2022 VENCIDO
+10) 62126128 Durand/Enrique                                    60888 CAPTOPRIL_25MG_30T 17/08/2022 VENCIDO
+                                   42856 FELODIPINO_5_MG_20T 17/08/2022 VENCIDO
+                                   49644 HIDROCORTISONA_CRA_30GR 14/08/2022 VENCIDO
+                                   33311 ALBENDAZOL_200MG_C/6_TAB 9/08/2022 VENCIDO
+                                   14075 CLOTRIMAZOL_C/6_CPR_VAG 3/04/2023 VENCIDO
+10) 93231760 Zarate/Alexander                                    89528 CLORMADINONA_2MG_20T 27/03/2023 VENCIDO
+                                   49157 RANITIDINA_300_MG_C/10 4/08/2022 VENCIDO
+10) 80694546 Ramirez/Karina                                    82469 GUAYACOL_AMPOLLETA_1ML 11/04/2023 VENCIDO
+                                   76596 CEFADROXILO_250MG_SUSP 18/12/2022 VENCIDO
+                                   30228 METOPROLOL_20T/100 22/10/2022 VENCIDO
+                                   88994 FENITOINA_SODICA_7.5MG_120ML 28/03/2023 VENCIDO
+10) 36934113 Serrano/Arturo                                    70225 CEFTRIAXONA_1.0GR_IM_G_I 4/12/2022 VENCIDO
+                                   26484 DILTIAZEM_30_TAB/30_MG 29/08/2022 VENCIDO
+                                   59121 DESLORATADINA_5MG_10T 9/09/2022 VENCIDO
+                                   28992 ALUMUMINIO+MAGNESIO_SUSP_240ML 12/03/2023 VENCIDO
+10) 35852072 Jauregui/Victor                                    81062 PAROXETINA_T/10_20MG 16/01/2023 VENCIDO
+                                   26360 VITAMINAS_A_C_Y_D_3AMP/3ML_ING 4/08/2022 VENCIDO
+                                   89325 DIMENHIDRINATO_24_T_50MG 13/08/2022 VENCIDO
+                                   37007 DIFENHIDRAMINA_250MG_JBE_120ML 17/08/2022 VENCIDO
+10) 93961840 Pairazaman/Tatiana                                    26920 HIDRALAZINA_20T_10MG 1/09/2022 VENCIDO
+                                   18672 TINIDAZOL_500MG_8T 17/08/2022 VENCIDO
+                                   42856 FELODIPINO_5_MG_20T 17/08/2022 VENCIDO
+                                   68539 METENAMINA_30T_500MG 4/08/2022 VENCIDO
+                                   95540 NAPROXENO_500_MG_C/10_TAB 12/10/2022 VENCIDO
+10) 41964357 Arca/Magali                                    53200 VITAMINA+OMEGA_3_30T 16/08/2022 VENCIDO
+                                   70226 CALCIO+VITAMINA_D_SUSP 13/11/2022 VENCIDO
+                                   49157 RANITIDINA_300_MG_C/10 4/08/2022 VENCIDO
+                                   17645 KETOKONAZOL_CRA_30GR 12/08/2022 VENCIDO
+10) 13731806 Salamanca/Virginia                                    11592 TERBINAFINA_1%_CRA_20_GR 11/01/2023 VENCIDO
+                                   55021 AMOXICILINA_500MG/5ML_SUSP 27/08/2022 VENCIDO
+10) 14956687 Luna/Waldemar                                    70116 LACTULOSA_125ML 18/04/2023 VENCIDO
+Medico: VALENTINA_PAULA_URBINA_ANTEZANO_Pediatria[LZ53556]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 32538825 Hijar/Martin                                    92560 EXALVER_FENILEFRINA_PED._30_ML 1/09/2022 VENCIDO
+                                   16681 SIBUTRAMINA_10_MG_C15 21/09/2022 VENCIDO
+                                   47697 CLINDAMICINA_300_MG_C/16 6/08/2022 VENCIDO
+                                   26506 ITRACONAZOL_100_MG_C/15 18/08/2022 VENCIDO
+10) 85395219 Fuentes/Patricia                                    30428 PROPAFENONA_150_MG/20_TAB 29/12/2022 VENCIDO
+                                   33311 ALBENDAZOL_200MG_C/6_TAB 9/08/2022 VENCIDO
+                                   57505 ESPIRONOLACTONA_25MG_20T 8/08/2022 VENCIDO
+                                   52072 BROMOCRIPTINA_2.5MG_C/14TAB 22/08/2022 VENCIDO
+                                   22232 LEVETIRACETAM 12/02/2023 VENCIDO
+10) 77440060 Escalante/Emigdio                                    30228 METOPROLOL_20T/100 22/10/2022 VENCIDO
+                                   36622 TEOFILINA_20_TAB/100_MG 15/03/2023 VENCIDO
+                                   46000 HIDROX_MAGNESIO+ALUMINIO_240ML 1/10/2022 VENCIDO
+10) 45914393 Lozada/Antonio                                    22553 FLUCINOLONA+NEOMICINA_CRA_30G 24/01/2023 VENCIDO
+                                   73972 VITAMINA_E_400_MG_C90_CAPS 5/08/2022 VENCIDO
+                                   61508 DEXTROMETORFANO_300MG_JBE_120_ML 17/09/2022 VENCIDO
+                                   19397 ORLISTAT_/_21_CAP_120_MG 4/10/2022 VENCIDO
+10) 62126128 Durand/Enrique                                    42053 TRETINOINA_30G_CREMA_0.05% 1/08/2022 VENCIDO
+                                   94459 VALPROATO_DE_MAGNESIO_SUSP 4/08/2022 VENCIDO
+                                   98261 ACICLOVIR_200_MG_C/25_CPR 30/08/2022 VENCIDO
+                                   77203 ONDANSETRON_8MG_C10T 8/08/2022 VENCIDO
+10) 62287143 Wong/Beatriz                                    22232 LEVETIRACETAM 12/02/2023 VENCIDO
+                                   57269 SIMVASTATINA_10_MG_C14 10/08/2022 VENCIDO
+                                   40997 ELECTROLIT_PED_FRESA_625ML 2/04/2023 VENCIDO
+Medico: ZKENIA_IRMA_CHUNG_ZUNIGA_Traumatologia[LK70612]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 59561864 Rosemberg/Julio                                    40862 YODOPOVIDONA_120ML 3/08/2022 VENCIDO
+10) 27709566 Ortiz/Raul                                    88994 FENITOINA_SODICA_7.5MG_120ML 28/03/2023 VENCIDO
+                                   86681 HIDROCLOROTIAZIDA_25_MG_20TAB 27/08/2022 VENCIDO
+                                   55813 SALBUTAMOL_4MG_T30 22/08/2022 VENCIDO
+                                   75565 MICONAZOL_20_GR_CRA 23/09/2022 VENCIDO
+10) 31284904 Sakaguchi/Carlos                                    86681 HIDROCLOROTIAZIDA_25_MG_20TAB 27/08/2022 VENCIDO
+                                   16681 SIBUTRAMINA_10_MG_C15 21/09/2022 VENCIDO
+                                   44253 PROGESTERONA+ESTRADIOL_50/5_AMP 22/11/2022 VENCIDO
+                                   86451 TRIMEBUTINA_100MG/5ML_SUSP 1/09/2022 VENCIDO
+10) 93231760 Zarate/Alexander                                    47734 MICRODACYN_60_SOL_240ML 16/08/2022 VENCIDO
+10) 81647285 Vega/Henrry                                    70116 LACTULOSA_125ML 18/04/2023 VENCIDO
+                                   79996 LANSOPRAZOL_15_MG_C/14 23/08/2022 VENCIDO
+10) 28992638 Trigueros/Luz                                    18672 TINIDAZOL_500MG_8T 17/08/2022 VENCIDO
+                                   15098 LISINA_CLOHRIDRATO_125MG_T10 16/09/2022 VENCIDO
+                                   86158 SENOSIDOS_A_y_B_C20 1/09/2022 VENCIDO
+                                   42053 TRETINOINA_30G_CREMA_0.05% 1/08/2022 VENCIDO
+                                   82528 LORATADINA_T/10_10MG 4/01/2023 VENCIDO
+10) 45201670 Guevara/Milena                                    79189 CLORFENAMINA_4MG_T20 21/08/2022 VENCIDO
+                                   79189 CLORFENAMINA_4MG_T20 21/08/2022 VENCIDO
+                                   22553 FLUCINOLONA+NEOMICINA_CRA_30G 24/01/2023 VENCIDO
+                                   30430 PRUEBA_DE_EMBARAZO 10/08/2022 VENCIDO
+                                   26360 VITAMINAS_A_C_Y_D_3AMP/3ML_ING 4/08/2022 VENCIDO
+Medico: LOURDES_CARMELA_YALLICO_PAREDES_Oftalmologia[IM64405]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 53420926 Prado/Juan                                    47697 CLINDAMICINA_300_MG_C/16 6/08/2022 VENCIDO
+10) 99891737 Contreras/Johana                                    59121 DESLORATADINA_5MG_10T 9/09/2022 VENCIDO
+10) 81647285 Vega/Henrry                                    90198 NITROFURAL_6MG_6/OV 1/08/2022 VENCIDO
+                                   58036 PENTOXIFILINA_400MG_T30 12/03/2023 VENCIDO
+                                   16299 AZITROMICINA_500MG_C/3T 18/12/2022 VENCIDO
+                                   33390 CORTILONA_CRA_30GR 29/12/2022 VENCIDO
+10) 86988155 Cerna/Cinthia                                    81333 CARNITINA_C/30 14/09/2022 VENCIDO
+Medico: DELICIA_ROSA_ARCA_LEIVA_Oftalmologia[KT90929]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 61061535 Solis/Maria                                    88994 FENITOINA_SODICA_7.5MG_120ML 28/03/2023 VENCIDO
+                                   12388 PROTEINAS+CREATINA_500_GR_30T 27/11/2022 VENCIDO
+                                   97465 GLIBENCLAMIDA_5_MG_C/50 17/09/2022 VENCIDO
+                                   67784 LOSARTAN_50MG_C/10T 20/12/2022 VENCIDO
+10) 68114999 Rios/Ines                                    92560 EXALVER_FENILEFRINA_PED._30_ML 1/09/2022 VENCIDO
+                                   62302 BEZAFIBRATO_200MG_C/30TAB 1/08/2022 VENCIDO
+                                   57505 ESPIRONOLACTONA_25MG_20T 8/08/2022 VENCIDO
+10) 61061535 Solis/Maria                                    96031 CETIRIZINA_10_MG_TABS_C/10 20/08/2022 VENCIDO
+                                   52072 BROMOCRIPTINA_2.5MG_C/14TAB 22/08/2022 VENCIDO
+                                   60086 METAMISOL_500_MG_T10 29/08/2022 VENCIDO
+10) 95656771 Raffo/Rolando                                    22553 FLUCINOLONA+NEOMICINA_CRA_30G 24/01/2023 VENCIDO
+10) 86988155 Cerna/Cinthia                                    30428 PROPAFENONA_150_MG/20_TAB 29/12/2022 VENCIDO
+                                   58259 SULFADIAZINA_DE_PLATA_CRA_28GR 2/10/2022 VENCIDO
+10) 90367684 Sinche/Yvonne                                    28219 NITAZOXANIDA_200_MG_T6 4/08/2022 VENCIDO
+                                   49644 HIDROCORTISONA_CRA_30GR 14/08/2022 VENCIDO
+                                   92517 ISOCONAZOL_CR_20GR_GI 2/08/2022 VENCIDO
+10) 77440060 Escalante/Emigdio                                    68610 CALCITRIOL_0.25MCG_50_CAP 26/04/2023 VENCIDO
+                                   44215 DICICLOVERINA_10MG_30T 14/08/2022 VENCIDO
+                                   92517 ISOCONAZOL_CR_20GR_GI 2/08/2022 VENCIDO
+                                   34027 DANAZOL_100MG_50T 6/12/2022 VENCIDO
+                                   46919 VITAMINA_C_C20_TAB_100MG 16/01/2023 VENCIDO
+10) 80694546 Ramirez/Karina                                    41995 DIMETICONA_SUSP_100MG_30ML 30/08/2022 VENCIDO
+                                   81821 AMIODARONA_200MG_T20 21/11/2022 VENCIDO
+                                   42861 BENCIDAMIDA_CRA_5%_60GR 25/08/2022 VENCIDO
+10) 51873364 Calixto/Erick                                    30428 PROPAFENONA_150_MG/20_TAB 29/12/2022 VENCIDO
+                                   42861 BENCIDAMIDA_CRA_5%_60GR 25/08/2022 VENCIDO
+                                   26360 VITAMINAS_A_C_Y_D_3AMP/3ML_ING 4/08/2022 VENCIDO
+                                   31311 METILPREDNISOLONA_500MG 1/08/2022 VENCIDO
+10) 94683380 Farfan/Margot                                    33276 INDOMETACINA_C30 6/09/2022 VENCIDO
+Medico: DELIA_ESTEFANIA_CABRERA_MORENO_Urologia[IH70367]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 22598563 Sueldo/Adria                                    93578 SUCRALFATO_40_TAB/1G 8/11/2022 VENCIDO
+                                   96554 PIROXICAM_20MG_T20 29/08/2022 VENCIDO
+                                   93578 SUCRALFATO_40_TAB/1G 8/11/2022 VENCIDO
+10) 30246960 Escalante/Ines                                    90300 FLUOXETINA_20_MG_C/14 29/08/2022 VENCIDO
+                                   28219 NITAZOXANIDA_200_MG_T6 4/08/2022 VENCIDO
+10) 94683380 Farfan/Margot                                    40645 VERAPAMILO_80_MG/20_TAB 1/02/2023 VENCIDO
+                                   48244 CLORANFENICOL_SOL_OFT_10ML 25/08/2022 VENCIDO
+                                   53200 VITAMINA+OMEGA_3_30T 16/08/2022 VENCIDO
+                                   40997 ELECTROLIT_PED_FRESA_625ML 2/04/2023 VENCIDO
+Medico: WILMER_SAENZ_ARANDA_Ginecologia[VJ18708]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 36934113 Serrano/Arturo                                    36711 TIBOLONA_2.5MG_30T 29/08/2022 VENCIDO
+                                   82469 GUAYACOL_AMPOLLETA_1ML 11/04/2023 VENCIDO
+                                   68539 METENAMINA_30T_500MG 4/08/2022 VENCIDO
+                                   74680 FENITOINA_T50_100MG 22/11/2022 VENCIDO
+10) 58643376 Arroyo/Natalia                                    43222 AMBROXOL_GOTAS_30ML 26/08/2022 VENCIDO
+10) 36471787 Pena/Glenda                                    44215 DICICLOVERINA_10MG_30T 14/08/2022 VENCIDO
+                                   48557 NAPROXENO_SODICO_100/2.5_SUSP 18/03/2023 VENCIDO
+                                   45814 ERITROMICINA_250MG_SUSP 1/12/2022 VENCIDO
+                                   54692 NAFAZOLINA_SOL_OFT_15_ml 3/03/2023 VENCIDO
+                                   81333 CARNITINA_C/30 14/09/2022 VENCIDO
+10) 81539774 Alfaro/Erick                                    19397 ORLISTAT_/_21_CAP_120_MG 4/10/2022 VENCIDO
+10) 93961840 Pairazaman/Tatiana                                    17804 PIROXICAM_30_GM_CRA 6/02/2023 VENCIDO
+                                   42856 FELODIPINO_5_MG_20T 17/08/2022 VENCIDO
+                                   16299 AZITROMICINA_500MG_C/3T 18/12/2022 VENCIDO
+10) 90367684 Sinche/Yvonne                                    12388 PROTEINAS+CREATINA_500_GR_30T 27/11/2022 VENCIDO
+                                   70303 AZITROMICINA_SUSP 21/01/2023 VENCIDO
+10) 36934113 Serrano/Arturo                                    70113 TETRACICLINA_250MG_10T 30/10/2022 VENCIDO
+                                   55813 SALBUTAMOL_4MG_T30 22/08/2022 VENCIDO
+                                   90198 NITROFURAL_6MG_6/OV 1/08/2022 VENCIDO
+10) 45201670 Guevara/Milena                                    95196 DIGOXINA_0.250_MG_C/24 14/08/2022 VENCIDO
+                                   17790 DICLOFENACO_100MG_20T 9/02/2023 VENCIDO
+10) 63640178 Rodriguez/Blanca                                    80830 COMPLEJO_B_T30 9/08/2022 VENCIDO
+10) 90367684 Sinche/Yvonne                                    97465 GLIBENCLAMIDA_5_MG_C/50 17/09/2022 VENCIDO
+                                   64347 DIFENHIDRAMINA_25MG_C30 26/08/2022 VENCIDO
+Medico: GUSTAVO_ALONSO_DEL_CASTILLO_MEJIA_Geriatria[RC80138]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 15290194 Hernandez/Guillermo                                    84555 PARACETAMOL_300MG_C/5_SUP 4/04/2023 VENCIDO
+                                   43222 AMBROXOL_GOTAS_30ML 26/08/2022 VENCIDO
+                                   32486 BENZOCAINA_FRAMBUESA_C/24 29/11/2022 VENCIDO
+                                   34066 SULINDACO_200MG/20_TAB 14/12/2022 VENCIDO
+                                   84771 BETAMETASONA_CREMA_30GR 25/03/2023 VENCIDO
+10) 58643376 Arroyo/Natalia                                    28892 GLIMEPIRIDA_2MG_C30 3/03/2023 VENCIDO
+                                   89839 ACIDO_MEFENAMICO_500MG_C10_TAB 9/08/2022 VENCIDO
+                                   40862 YODOPOVIDONA_120ML 3/08/2022 VENCIDO
+10) 62287143 Wong/Beatriz                                    68860 METFORMINA_850MG_T30 20/10/2022 VENCIDO
+                                   85325 AMOXICILINA_250MG_C12 1/08/2022 VENCIDO
+                                   70303 AZITROMICINA_SUSP 21/01/2023 VENCIDO
+                                   33311 ALBENDAZOL_200MG_C/6_TAB 9/08/2022 VENCIDO
+                                   77358 LOPERAMIDA_T/12_2MG 16/12/2022 VENCIDO
+10) 59596317 Justino/Virginia                                    60509 AMPICILINA_125MG_SUSP_90ML 27/04/2023 VENCIDO
+                                   60086 METAMISOL_500_MG_T10 29/08/2022 VENCIDO
+10) 51465986 Sam/Ines                                    73174 VITAMINA_P/DIABETICOS_30T 30/03/2023 VENCIDO
+                                   77534 METRONIDAZOL_500_MG_T30 20/08/2022 VENCIDO
+10) 49357767 Solis/Rolando                                    70024 METILDOPA_250_MG_30_TAB 4/08/2022 VENCIDO
+                                   59395 VITAMINICO_GERIATRICO_C30 11/08/2022 VENCIDO
+                                   31311 METILPREDNISOLONA_500MG 1/08/2022 VENCIDO
+10) 93961840 Pairazaman/Tatiana                                    62302 BEZAFIBRATO_200MG_C/30TAB 1/08/2022 VENCIDO
+                                   22306 NIMESULIDA_25MG_20ML 8/08/2022 VENCIDO
+                                   70303 AZITROMICINA_SUSP 21/01/2023 VENCIDO
+10) 53420926 Prado/Juan                                    42053 TRETINOINA_30G_CREMA_0.05% 1/08/2022 VENCIDO
+Medico: JAVIER_EDGARD_LANDA_CABRERA_Pediatria[PW35451]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 30246960 Escalante/Ines                                    32486 BENZOCAINA_FRAMBUESA_C/24 29/11/2022 VENCIDO
+                                   30428 PROPAFENONA_150_MG/20_TAB 29/12/2022 VENCIDO
+                                   61508 DEXTROMETORFANO_300MG_JBE_120_ML 17/09/2022 VENCIDO
+                                   16681 SIBUTRAMINA_10_MG_C15 21/09/2022 VENCIDO
+10) 41964357 Arca/Magali                                    36622 TEOFILINA_20_TAB/100_MG 15/03/2023 VENCIDO
+                                   42856 FELODIPINO_5_MG_20T 17/08/2022 VENCIDO
+                                   96881 GABAPENTINA_300_MG_C/15 19/08/2022 VENCIDO
+                                   70226 CALCIO+VITAMINA_D_SUSP 13/11/2022 VENCIDO
+10) 17299012 Suarez/Amaru                                    94429 TIAMAZOL_5MG_20T 27/10/2022 VENCIDO
+                                   26506 ITRACONAZOL_100_MG_C/15 18/08/2022 VENCIDO
+                                   14962 HIERRO_DEXTRANO_AMP4 1/09/2022 VENCIDO
+                                   68610 CALCITRIOL_0.25MCG_50_CAP 26/04/2023 VENCIDO
+10) 32538825 Hijar/Martin                                    41403 VITAMINAS_Y_MINERALES_30-30T 18/11/2022 VENCIDO
+10) 12484697 Diaz/Enrique                                    15098 LISINA_CLOHRIDRATO_125MG_T10 16/09/2022 VENCIDO
+                                   68539 METENAMINA_30T_500MG 4/08/2022 VENCIDO
+                                   22842 AMIKACINA_500MG_C/1_AMP 5/08/2022 VENCIDO
+                                   11370 KETOROLACO_4T_30MG_SUBLINGUAL 25/02/2023 VENCIDO
+10) 86988155 Cerna/Cinthia                                    26920 HIDRALAZINA_20T_10MG 1/09/2022 VENCIDO
+                                   38648 PENICILINA_V_POT_400000U_20T 9/08/2022 VENCIDO
+                                   53166 ASTEMIZOL_SUSP_200MG 17/08/2022 VENCIDO
+                                   40645 VERAPAMILO_80_MG/20_TAB 1/02/2023 VENCIDO
+Medico: OFELIA_BEATRIZ_MONTERO_BOLANOS_Gastroenterologia[GO70992]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 35347567 Sedano/Elia                                    79996 LANSOPRAZOL_15_MG_C/14 23/08/2022 VENCIDO
+                                   40997 ELECTROLIT_PED_FRESA_625ML 2/04/2023 VENCIDO
+                                   38648 PENICILINA_V_POT_400000U_20T 9/08/2022 VENCIDO
+                                   37007 DIFENHIDRAMINA_250MG_JBE_120ML 17/08/2022 VENCIDO
+                                   18672 TINIDAZOL_500MG_8T 17/08/2022 VENCIDO
+10) 20371464 Lozada/Heli                                    98261 ACICLOVIR_200_MG_C/25_CPR 30/08/2022 VENCIDO
+                                   68730 MELOXICAM_7.5_MG_C/14 26/10/2022 VENCIDO
+                                   70226 CALCIO+VITAMINA_D_SUSP 13/11/2022 VENCIDO
+10) 90367684 Sinche/Yvonne                                    36622 TEOFILINA_20_TAB/100_MG 15/03/2023 VENCIDO
+10) 57182371 Moscoso/Fiorella                                    68730 MELOXICAM_7.5_MG_C/14 26/10/2022 VENCIDO
+10) 66039166 Chavez/Johan                                    48244 CLORANFENICOL_SOL_OFT_10ML 25/08/2022 VENCIDO
+                                   58036 PENTOXIFILINA_400MG_T30 12/03/2023 VENCIDO
+10) 32538825 Hijar/Martin                                    96554 PIROXICAM_20MG_T20 29/08/2022 VENCIDO
+                                   83801 CEFACLOR_125_MG_SUSP 17/08/2022 VENCIDO
+                                   30690 VITAMINAS_EMBARAZO_9_MESES_C30 9/09/2022 VENCIDO
+                                   90198 NITROFURAL_6MG_6/OV 1/08/2022 VENCIDO
+10) 62126128 Durand/Enrique                                    84766 CIPROFLOXACINO_SOL.OFT_5MG 17/08/2022 VENCIDO
+                                   77358 LOPERAMIDA_T/12_2MG 16/12/2022 VENCIDO
+                                   70303 AZITROMICINA_SUSP 21/01/2023 VENCIDO
+10) 13731806 Salamanca/Virginia                                    61039 NISTATINA_GI_C/12_TAB 16/11/2022 VENCIDO
+                                   17845 GINKO_YANG_CAPS_C/30 16/08/2022 VENCIDO
+10) 68269451 Asmad/Adria                                    53084 MINOCICLINA_100MG_10T 1/08/2022 VENCIDO
+                                   47734 MICRODACYN_60_SOL_240ML 16/08/2022 VENCIDO
+10) 80694546 Ramirez/Karina                                    77466 RAMIPRIL_16_TAB/5_MG 2/08/2022 VENCIDO
+                                   81062 PAROXETINA_T/10_20MG 16/01/2023 VENCIDO
+                                   74924 TAMSULOSINA_0.4_MG_CAPS_20 10/08/2022 VENCIDO
+Medico: MARINA_NATALIA_GARCIA_INGA_Cardiologia[PY49768]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 65912822 Camacho/Ydali                                    46919 VITAMINA_C_C20_TAB_100MG 16/01/2023 VENCIDO
+10) 72330000 Vega/Carmela                                    33311 ALBENDAZOL_200MG_C/6_TAB 9/08/2022 VENCIDO
+                                   48244 CLORANFENICOL_SOL_OFT_10ML 25/08/2022 VENCIDO
+                                   46000 HIDROX_MAGNESIO+ALUMINIO_240ML 1/10/2022 VENCIDO
+                                   77534 METRONIDAZOL_500_MG_T30 20/08/2022 VENCIDO
+10) 62287143 Wong/Beatriz                                    12388 PROTEINAS+CREATINA_500_GR_30T 27/11/2022 VENCIDO
+                                   31389 BETAMETASONA_4_MG/ML 12/09/2022 VENCIDO
+                                   46919 VITAMINA_C_C20_TAB_100MG 16/01/2023 VENCIDO
+                                   73174 VITAMINA_P/DIABETICOS_30T 30/03/2023 VENCIDO
+                                   28992 ALUMUMINIO+MAGNESIO_SUSP_240ML 12/03/2023 VENCIDO
+10) 68269451 Asmad/Adria                                    53200 VITAMINA+OMEGA_3_30T 16/08/2022 VENCIDO
+                                   53084 MINOCICLINA_100MG_10T 1/08/2022 VENCIDO
+                                   86158 SENOSIDOS_A_y_B_C20 1/09/2022 VENCIDO
+                                   72969 ISOSORBIDE_10MG_T/20 6/02/2023 VENCIDO
+10) 30246960 Escalante/Ines                                    97465 GLIBENCLAMIDA_5_MG_C/50 17/09/2022 VENCIDO
+                                   73972 VITAMINA_E_400_MG_C90_CAPS 5/08/2022 VENCIDO
+Medico: BLANCA_LUZ_ACUNA_AYLLON_Oftalmologia[XN33687]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 99891737 Contreras/Johana                                    34027 DANAZOL_100MG_50T 6/12/2022 VENCIDO
+                                   15098 LISINA_CLOHRIDRATO_125MG_T10 16/09/2022 VENCIDO
+                                   30430 PRUEBA_DE_EMBARAZO 10/08/2022 VENCIDO
+                                   94415 PRAVASTATINA_10_MG_C/15 19/08/2022 VENCIDO
+                                   77358 LOPERAMIDA_T/12_2MG 16/12/2022 VENCIDO
+10) 15290194 Hernandez/Guillermo                                    33276 INDOMETACINA_C30 6/09/2022 VENCIDO
+                                   52072 BROMOCRIPTINA_2.5MG_C/14TAB 22/08/2022 VENCIDO
+                                   36649 CITALOPRAM_20MG_14T 10/08/2022 VENCIDO
+                                   62302 BEZAFIBRATO_200MG_C/30TAB 1/08/2022 VENCIDO
+Medico: VICTORIA_MILAGROS_SHIRAKAWA_SAONA_Pediatria[PJ70789]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 93282118 Zambrano/Ofelia                                    98679 DOXICICLINA_100MG_10_CAPS 19/09/2022 VENCIDO
+                                   81960 CEFALEXINA_500MG_C/20_CAP 9/02/2023 VENCIDO
+10) 93961840 Pairazaman/Tatiana                                    58252 KETOTIFENO_SOL_120ML 29/08/2022 VENCIDO
+                                   14962 HIERRO_DEXTRANO_AMP4 1/09/2022 VENCIDO
+                                   22232 LEVETIRACETAM 12/02/2023 VENCIDO
+                                   98679 DOXICICLINA_100MG_10_CAPS 19/09/2022 VENCIDO
+                                   49756 PREDNISOLONA_5MG_SOL_OFT_5_ML 1/08/2022 VENCIDO
+10) 51465986 Sam/Ines                                    30228 METOPROLOL_20T/100 22/10/2022 VENCIDO
+                                   68730 MELOXICAM_7.5_MG_C/14 26/10/2022 VENCIDO
+                                   26360 VITAMINAS_A_C_Y_D_3AMP/3ML_ING 4/08/2022 VENCIDO
+                                   86158 SENOSIDOS_A_y_B_C20 1/09/2022 VENCIDO
+                                   88681 NIFEDIPINO_30_MG_30_CPS 18/03/2023 VENCIDO
+10) 93939698 Henriquez/Silvana                                    53084 MINOCICLINA_100MG_10T 1/08/2022 VENCIDO
+                                   22842 AMIKACINA_500MG_C/1_AMP 5/08/2022 VENCIDO
+10) 77440060 Escalante/Emigdio                                    96031 CETIRIZINA_10_MG_TABS_C/10 20/08/2022 VENCIDO
+                                   68860 METFORMINA_850MG_T30 20/10/2022 VENCIDO
+                                   24522 LEVOFLOXACINO_500MG_C/7_TAB 28/08/2022 VENCIDO
+                                   62008 LISINOPRIL_T/30_10_MG 23/02/2023 VENCIDO
+                                   81333 CARNITINA_C/30 14/09/2022 VENCIDO
+10) 61061535 Solis/Maria                                    26506 ITRACONAZOL_100_MG_C/15 18/08/2022 VENCIDO
+10) 90367684 Sinche/Yvonne                                    68730 MELOXICAM_7.5_MG_C/14 26/10/2022 VENCIDO
+10) 37282858 Soma/Lourdes                                    48039 TRAMADOL_100MG_5AMP 13/09/2022 VENCIDO
+                                   31189 CEFADROXILO_500MG_C/16CAP 3/12/2022 VENCIDO
+                                   26754 SILDENAFIL_50MG_C/1-TAB 25/10/2022 VENCIDO
+10) 53420926 Prado/Juan                                    67415 FINASTERIDA_5MG_30T 22/12/2022 VENCIDO
+                                   72495 ACIDO_GLUTAMICO_600_MG_C/100 4/10/2022 VENCIDO
+Medico: EMILIO_EMIGDIO_GONZALES_AGUIRRE_Urologia[OW18262]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 12484697 Diaz/Enrique                                    76247 FLUOCINOLONA_CREMA_30G 14/01/2023 VENCIDO
+10) 22679759 Bravo/Janet                                    70303 AZITROMICINA_SUSP 21/01/2023 VENCIDO
+                                   91653 SAL_DE_UVAS_PICOT 3/08/2022 VENCIDO
+                                   16359 NAPROXENO_250_MG_TAB_C/30 24/04/2023 VENCIDO
+10) 51465986 Sam/Ines                                    16055 AMBROXOL_C/20_TAB 27/08/2022 VENCIDO
+10) 77324146 Moscoso/Janet                                    33390 CORTILONA_CRA_30GR 29/12/2022 VENCIDO
+                                   12388 PROTEINAS+CREATINA_500_GR_30T 27/11/2022 VENCIDO
+                                   61039 NISTATINA_GI_C/12_TAB 16/11/2022 VENCIDO
+                                   31311 METILPREDNISOLONA_500MG 1/08/2022 VENCIDO
+10) 37282858 Soma/Lourdes                                    17790 DICLOFENACO_100MG_20T 9/02/2023 VENCIDO
+                                   81821 AMIODARONA_200MG_T20 21/11/2022 VENCIDO
+                                   96881 GABAPENTINA_300_MG_C/15 19/08/2022 VENCIDO
+                                   44253 PROGESTERONA+ESTRADIOL_50/5_AMP 22/11/2022 VENCIDO
+                                   34080 ELECTROLIT_FRESA_500ML 5/09/2022 VENCIDO
+Medico: GLENDA_CABRERA_MORI_Oncologia[BF14655]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 68114999 Rios/Ines                                    26754 SILDENAFIL_50MG_C/1-TAB 25/10/2022 VENCIDO
+10) 57182371 Moscoso/Fiorella                                    70116 LACTULOSA_125ML 18/04/2023 VENCIDO
+10) 20371464 Lozada/Heli                                    68539 METENAMINA_30T_500MG 4/08/2022 VENCIDO
+                                   60685 NITROFURANTOINA_C40_100MG 9/02/2023 VENCIDO
+10) 54149342 Leyva/Diana                                    28219 NITAZOXANIDA_200_MG_T6 4/08/2022 VENCIDO
+                                   90300 FLUOXETINA_20_MG_C/14 29/08/2022 VENCIDO
+                                   60509 AMPICILINA_125MG_SUSP_90ML 27/04/2023 VENCIDO
+10) 54815159 Patino/Delicia                                    61508 DEXTROMETORFANO_300MG_JBE_120_ML 17/09/2022 VENCIDO
+                                   58252 KETOTIFENO_SOL_120ML 29/08/2022 VENCIDO
+                                   28219 NITAZOXANIDA_200_MG_T6 4/08/2022 VENCIDO
+                                   73174 VITAMINA_P/DIABETICOS_30T 30/03/2023 VENCIDO
+10) 14956687 Luna/Waldemar                                    79189 CLORFENAMINA_4MG_T20 21/08/2022 VENCIDO
+10) 90367684 Sinche/Yvonne                                    89528 CLORMADINONA_2MG_20T 27/03/2023 VENCIDO
+                                   63555 FAMOTIDINA_20MG_30C 5/12/2022 VENCIDO
+                                   68346 TOLBUTAMIDA_50T_500MG 14/08/2022 VENCIDO
+                                   22842 AMIKACINA_500MG_C/1_AMP 5/08/2022 VENCIDO
+                                   76596 CEFADROXILO_250MG_SUSP 18/12/2022 VENCIDO
+10) 62287143 Wong/Beatriz                                    28992 ALUMUMINIO+MAGNESIO_SUSP_240ML 12/03/2023 VENCIDO
+                                   96031 CETIRIZINA_10_MG_TABS_C/10 20/08/2022 VENCIDO
+                                   79996 LANSOPRAZOL_15_MG_C/14 23/08/2022 VENCIDO
+                                   88994 FENITOINA_SODICA_7.5MG_120ML 28/03/2023 VENCIDO
+Medico: TERESA_TERESA_MARTEL_MERCADO_Pediatria[IM80227]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 81647285 Vega/Henrry                                    46919 VITAMINA_C_C20_TAB_100MG 16/01/2023 VENCIDO
+                                   91653 SAL_DE_UVAS_PICOT 3/08/2022 VENCIDO
+                                   88266 PREDNISONA_20MG_C30_TAB_GI 10/03/2023 VENCIDO
+                                   17645 KETOKONAZOL_CRA_30GR 12/08/2022 VENCIDO
+                                   30690 VITAMINAS_EMBARAZO_9_MESES_C30 9/09/2022 VENCIDO
+10) 54149342 Leyva/Diana                                    58036 PENTOXIFILINA_400MG_T30 12/03/2023 VENCIDO
+                                   95196 DIGOXINA_0.250_MG_C/24 14/08/2022 VENCIDO
+                                   17804 PIROXICAM_30_GM_CRA 6/02/2023 VENCIDO
+                                   70226 CALCIO+VITAMINA_D_SUSP 13/11/2022 VENCIDO
+                                   76247 FLUOCINOLONA_CREMA_30G 14/01/2023 VENCIDO
+10) 51642949 Miranda/Alfonso                                    12388 PROTEINAS+CREATINA_500_GR_30T 27/11/2022 VENCIDO
+                                   76238 BEZOCAINA_10GR_GEL 7/04/2023 VENCIDO
+10) 86988155 Cerna/Cinthia                                    31883 ACIDO_NALIDIXICO_SUSP 13/08/2022 VENCIDO
+                                   76247 FLUOCINOLONA_CREMA_30G 14/01/2023 VENCIDO
+                                   53846 CLENBUTEROL_.02MG_50T 7/03/2023 VENCIDO
+10) 99891737 Contreras/Johana                                    53846 CLENBUTEROL_.02MG_50T 7/03/2023 VENCIDO
+                                   58259 SULFADIAZINA_DE_PLATA_CRA_28GR 2/10/2022 VENCIDO
+                                   30228 METOPROLOL_20T/100 22/10/2022 VENCIDO
+                                   42856 FELODIPINO_5_MG_20T 17/08/2022 VENCIDO
+                                   76247 FLUOCINOLONA_CREMA_30G 14/01/2023 VENCIDO
+10) 77324146 Moscoso/Janet                                    74680 FENITOINA_T50_100MG 22/11/2022 VENCIDO
+                                   72969 ISOSORBIDE_10MG_T/20 6/02/2023 VENCIDO
+                                   43222 AMBROXOL_GOTAS_30ML 26/08/2022 VENCIDO
+10) 54815159 Patino/Delicia                                    96554 PIROXICAM_20MG_T20 29/08/2022 VENCIDO
+                                   70116 LACTULOSA_125ML 18/04/2023 VENCIDO
+                                   26920 HIDRALAZINA_20T_10MG 1/09/2022 VENCIDO
+                                   92517 ISOCONAZOL_CR_20GR_GI 2/08/2022 VENCIDO
+Medico: MIGUEL_ALEX_LANDEO_ESTRADA_Cardiologia[JL34115]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 15290194 Hernandez/Guillermo                                    26484 DILTIAZEM_30_TAB/30_MG 29/08/2022 VENCIDO
+                                   26920 HIDRALAZINA_20T_10MG 1/09/2022 VENCIDO
+10) 51873364 Calixto/Erick                                    91653 SAL_DE_UVAS_PICOT 3/08/2022 VENCIDO
+                                   16299 AZITROMICINA_500MG_C/3T 18/12/2022 VENCIDO
+                                   46919 VITAMINA_C_C20_TAB_100MG 16/01/2023 VENCIDO
+                                   24522 LEVOFLOXACINO_500MG_C/7_TAB 28/08/2022 VENCIDO
+                                   40862 YODOPOVIDONA_120ML 3/08/2022 VENCIDO
+10) 93961840 Pairazaman/Tatiana                                    46000 HIDROX_MAGNESIO+ALUMINIO_240ML 1/10/2022 VENCIDO
+                                   41995 DIMETICONA_SUSP_100MG_30ML 30/08/2022 VENCIDO
+                                   89325 DIMENHIDRINATO_24_T_50MG 13/08/2022 VENCIDO
+                                   37549 TOPIRAMATO_100MG_20T 26/08/2022 VENCIDO
+                                   81333 CARNITINA_C/30 14/09/2022 VENCIDO
+10) 20371464 Lozada/Heli                                    46000 HIDROX_MAGNESIO+ALUMINIO_240ML 1/10/2022 VENCIDO
+                                   75565 MICONAZOL_20_GR_CRA 23/09/2022 VENCIDO
+10) 12484697 Diaz/Enrique                                    74924 TAMSULOSINA_0.4_MG_CAPS_20 10/08/2022 VENCIDO
+                                   43633 ERITROMICINA_T_250_MG_C/20 15/12/2022 VENCIDO
+                                   74680 FENITOINA_T50_100MG 22/11/2022 VENCIDO
+                                   75565 MICONAZOL_20_GR_CRA 23/09/2022 VENCIDO
+10) 61061535 Solis/Maria                                    43633 ERITROMICINA_T_250_MG_C/20 15/12/2022 VENCIDO
+                                   73174 VITAMINA_P/DIABETICOS_30T 30/03/2023 VENCIDO
+10) 34697743 Ayala/Ericka                                    14962 HIERRO_DEXTRANO_AMP4 1/09/2022 VENCIDO
+                                   90198 NITROFURAL_6MG_6/OV 1/08/2022 VENCIDO
+                                   70807 LINCOMICINA_600_MG_INY_C/3 20/08/2022 VENCIDO
+10) 43704548 Vizcardo/Maribel                                    39779 OMEPRAZOL_20_MG_C/14 27/01/2023 VENCIDO
+                                   36649 CITALOPRAM_20MG_14T 10/08/2022 VENCIDO
+                                   77358 LOPERAMIDA_T/12_2MG 16/12/2022 VENCIDO
+                                   47734 MICRODACYN_60_SOL_240ML 16/08/2022 VENCIDO
+                                   17804 PIROXICAM_30_GM_CRA 6/02/2023 VENCIDO
+10) 68269451 Asmad/Adria                                    42861 BENCIDAMIDA_CRA_5%_60GR 25/08/2022 VENCIDO
+                                   34070 FEXOFENADINA_C/10_180MG 18/03/2023 VENCIDO
+10) 99891737 Contreras/Johana                                    84555 PARACETAMOL_300MG_C/5_SUP 4/04/2023 VENCIDO
+Medico: DAVID_CARLOS_PEREZ_ANTEZANO_Endocrinologia[MB80040]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 75100362 Arca/Lucero                                    41995 DIMETICONA_SUSP_100MG_30ML 30/08/2022 VENCIDO
+                                   25684 DEXAMETASONA_0.5MG_T/30 18/03/2023 VENCIDO
+                                   94415 PRAVASTATINA_10_MG_C/15 19/08/2022 VENCIDO
+                                   18672 TINIDAZOL_500MG_8T 17/08/2022 VENCIDO
+10) 13731806 Salamanca/Virginia                                    27016 ACECLOFENACO_100MG_10T 24/08/2022 VENCIDO
+                                   28409 RIFAMPICINA_300_MG_C/16_CAP 27/01/2023 VENCIDO
+                                   46919 VITAMINA_C_C20_TAB_100MG 16/01/2023 VENCIDO
+                                   47697 CLINDAMICINA_300_MG_C/16 6/08/2022 VENCIDO
+10) 91187814 Narvaez/Jesus                                    57036 OXOLAMINA_JBE_100ML 15/10/2022 VENCIDO
+                                   40997 ELECTROLIT_PED_FRESA_625ML 2/04/2023 VENCIDO
+                                   40862 YODOPOVIDONA_120ML 3/08/2022 VENCIDO
+                                   53084 MINOCICLINA_100MG_10T 1/08/2022 VENCIDO
+                                   64347 DIFENHIDRAMINA_25MG_C30 26/08/2022 VENCIDO
+10) 31284904 Sakaguchi/Carlos                                    53846 CLENBUTEROL_.02MG_50T 7/03/2023 VENCIDO
+10) 51642949 Miranda/Alfonso                                    91653 SAL_DE_UVAS_PICOT 3/08/2022 VENCIDO
+10) 27709566 Ortiz/Raul                                    45814 ERITROMICINA_250MG_SUSP 1/12/2022 VENCIDO
+                                   72495 ACIDO_GLUTAMICO_600_MG_C/100 4/10/2022 VENCIDO
+10) 59596317 Justino/Virginia                                    26920 HIDRALAZINA_20T_10MG 1/09/2022 VENCIDO
+                                   98679 DOXICICLINA_100MG_10_CAPS 19/09/2022 VENCIDO
+                                   51148 PANTOPRAZOL_40MG_C/14 17/10/2022 VENCIDO
+10) 99891737 Contreras/Johana                                    82469 GUAYACOL_AMPOLLETA_1ML 11/04/2023 VENCIDO
+                                   30428 PROPAFENONA_150_MG/20_TAB 29/12/2022 VENCIDO
+                                   62008 LISINOPRIL_T/30_10_MG 23/02/2023 VENCIDO
+                                   24733 CALCIO+MAGNESIO_30T 10/08/2022 VENCIDO
+10) 68269451 Asmad/Adria                                    61295 QUINFAMIDA_100_MG_3TAB 18/08/2022 VENCIDO
+                                   86828 FENAZOPIRIDINA_100_MG_C/20_TAB 11/08/2022 VENCIDO
+Medico: CARMEN_ZAMORA_CABRERA_Endocrinologia[CQ25448]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 35606314 Mercado/Elia                                    14075 CLOTRIMAZOL_C/6_CPR_VAG 3/04/2023 VENCIDO
+10) 85395219 Fuentes/Patricia                                    86476 KETOTIFENO_C/30 26/01/2023 VENCIDO
+10) 36471787 Pena/Glenda                                    14075 CLOTRIMAZOL_C/6_CPR_VAG 3/04/2023 VENCIDO
+10) 35606314 Mercado/Elia                                    39779 OMEPRAZOL_20_MG_C/14 27/01/2023 VENCIDO
+                                   70807 LINCOMICINA_600_MG_INY_C/3 20/08/2022 VENCIDO
+10) 57182371 Moscoso/Fiorella                                    81821 AMIODARONA_200MG_T20 21/11/2022 VENCIDO
+                                   76238 BEZOCAINA_10GR_GEL 7/04/2023 VENCIDO
+                                   92517 ISOCONAZOL_CR_20GR_GI 2/08/2022 VENCIDO
+                                   58252 KETOTIFENO_SOL_120ML 29/08/2022 VENCIDO
+10) 93282118 Zambrano/Ofelia                                    68730 MELOXICAM_7.5_MG_C/14 26/10/2022 VENCIDO
+                                   86681 HIDROCLOROTIAZIDA_25_MG_20TAB 27/08/2022 VENCIDO
+                                   85325 AMOXICILINA_250MG_C12 1/08/2022 VENCIDO
+                                   68610 CALCITRIOL_0.25MCG_50_CAP 26/04/2023 VENCIDO
+                                   47734 MICRODACYN_60_SOL_240ML 16/08/2022 VENCIDO
+10) 59596317 Justino/Virginia                                    33200 GLUCOSAMINA_30C_500MG 14/12/2022 VENCIDO
+                                   92628 KETOPROFENO_100MG_C15 30/03/2023 VENCIDO
+                                   83510 FUROSEMIDA_40_MG_C/20 8/11/2022 VENCIDO
+                                   83510 FUROSEMIDA_40_MG_C/20 8/11/2022 VENCIDO
+10) 68114999 Rios/Ines                                    96881 GABAPENTINA_300_MG_C/15 19/08/2022 VENCIDO
+                                   39088 NORFLOXACINO_T20_400MG 16/08/2022 VENCIDO
+                                   25684 DEXAMETASONA_0.5MG_T/30 18/03/2023 VENCIDO
+                                   17645 KETOKONAZOL_CRA_30GR 12/08/2022 VENCIDO
+                                   49644 HIDROCORTISONA_CRA_30GR 14/08/2022 VENCIDO
+Medico: YLIANA_FLOR_ORTIZ_GUEVARA_Ginecologia[ZD40414]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 66091742 Baca/Milagros                                    75565 MICONAZOL_20_GR_CRA 23/09/2022 VENCIDO
+                                   74924 TAMSULOSINA_0.4_MG_CAPS_20 10/08/2022 VENCIDO
+                                   60086 METAMISOL_500_MG_T10 29/08/2022 VENCIDO
+                                   70950 LIDOCAINA_10%_115ML_SPRAY 16/08/2022 VENCIDO
+                                   31389 BETAMETASONA_4_MG/ML 12/09/2022 VENCIDO
+10) 20371464 Lozada/Heli                                    32486 BENZOCAINA_FRAMBUESA_C/24 29/11/2022 VENCIDO
+                                   44253 PROGESTERONA+ESTRADIOL_50/5_AMP 22/11/2022 VENCIDO
+10) 15290194 Hernandez/Guillermo                                    44215 DICICLOVERINA_10MG_30T 14/08/2022 VENCIDO
+                                   50450 SERTRALINA_50MG_C/14_T 24/10/2022 VENCIDO
+Medico: HUMBERTO_ALFONSO_AMEZQUITA_CONTRERAS_Dermatologia[EU90562]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 30246960 Escalante/Ines                                    26920 HIDRALAZINA_20T_10MG 1/09/2022 VENCIDO
+                                   90300 FLUOXETINA_20_MG_C/14 29/08/2022 VENCIDO
+                                   34070 FEXOFENADINA_C/10_180MG 18/03/2023 VENCIDO
+10) 22598563 Sueldo/Adria                                    26484 DILTIAZEM_30_TAB/30_MG 29/08/2022 VENCIDO
+10) 51642949 Miranda/Alfonso                                    22232 LEVETIRACETAM 12/02/2023 VENCIDO
+                                   28409 RIFAMPICINA_300_MG_C/16_CAP 27/01/2023 VENCIDO
+                                   88994 FENITOINA_SODICA_7.5MG_120ML 28/03/2023 VENCIDO
+                                   40862 YODOPOVIDONA_120ML 3/08/2022 VENCIDO
+10) 49357767 Solis/Rolando                                    58259 SULFADIAZINA_DE_PLATA_CRA_28GR 2/10/2022 VENCIDO
+Medico: RAUL_COLLADO_VILLA_Cardiologia[RQ91509]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 13731806 Salamanca/Virginia                                    85641 TAMOXIFENO_10MG_30T 8/08/2022 VENCIDO
+10) 27709566 Ortiz/Raul                                    48557 NAPROXENO_SODICO_100/2.5_SUSP 18/03/2023 VENCIDO
+                                   31389 BETAMETASONA_4_MG/ML 12/09/2022 VENCIDO
+                                   70950 LIDOCAINA_10%_115ML_SPRAY 16/08/2022 VENCIDO
+10) 34697743 Ayala/Ericka                                    68539 METENAMINA_30T_500MG 4/08/2022 VENCIDO
+                                   91653 SAL_DE_UVAS_PICOT 3/08/2022 VENCIDO
+                                   19397 ORLISTAT_/_21_CAP_120_MG 4/10/2022 VENCIDO
+                                   72061 DEFLAZACORT_30MG_10T 15/09/2022 VENCIDO
+                                   62302 BEZAFIBRATO_200MG_C/30TAB 1/08/2022 VENCIDO
+10) 93939698 Henriquez/Silvana                                    32486 BENZOCAINA_FRAMBUESA_C/24 29/11/2022 VENCIDO
+                                   16359 NAPROXENO_250_MG_TAB_C/30 24/04/2023 VENCIDO
+                                   11592 TERBINAFINA_1%_CRA_20_GR 11/01/2023 VENCIDO
+                                   90300 FLUOXETINA_20_MG_C/14 29/08/2022 VENCIDO
+10) 35852072 Jauregui/Victor                                    34027 DANAZOL_100MG_50T 6/12/2022 VENCIDO
+                                   34070 FEXOFENADINA_C/10_180MG 18/03/2023 VENCIDO
+                                   58259 SULFADIAZINA_DE_PLATA_CRA_28GR 2/10/2022 VENCIDO
+                                   57505 ESPIRONOLACTONA_25MG_20T 8/08/2022 VENCIDO
+                                   81821 AMIODARONA_200MG_T20 21/11/2022 VENCIDO
+10) 22598563 Sueldo/Adria                                    36649 CITALOPRAM_20MG_14T 10/08/2022 VENCIDO
+                                   86158 SENOSIDOS_A_y_B_C20 1/09/2022 VENCIDO
+Medico: JAIME_JULIAN_SHIRAKAWA_FLORIAN_Neumologia[OL30557]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 95656771 Raffo/Rolando                                    91653 SAL_DE_UVAS_PICOT 3/08/2022 VENCIDO
+                                   77358 LOPERAMIDA_T/12_2MG 16/12/2022 VENCIDO
+                                   88994 FENITOINA_SODICA_7.5MG_120ML 28/03/2023 VENCIDO
+                                   34066 SULINDACO_200MG/20_TAB 14/12/2022 VENCIDO
+10) 37282858 Soma/Lourdes                                    11592 TERBINAFINA_1%_CRA_20_GR 11/01/2023 VENCIDO
+                                   59121 DESLORATADINA_5MG_10T 9/09/2022 VENCIDO
+                                   70113 TETRACICLINA_250MG_10T 30/10/2022 VENCIDO
+                                   26920 HIDRALAZINA_20T_10MG 1/09/2022 VENCIDO
+                                   95196 DIGOXINA_0.250_MG_C/24 14/08/2022 VENCIDO
+10) 54149342 Leyva/Diana                                    96031 CETIRIZINA_10_MG_TABS_C/10 20/08/2022 VENCIDO
+                                   55701 EUCALIPTO_GUAYACOL_PERLAS30 2/02/2023 VENCIDO
+                                   77358 LOPERAMIDA_T/12_2MG 16/12/2022 VENCIDO
+10) 72330000 Vega/Carmela                                    26920 HIDRALAZINA_20T_10MG 1/09/2022 VENCIDO
+10) 45914393 Lozada/Antonio                                    67784 LOSARTAN_50MG_C/10T 20/12/2022 VENCIDO
+                                   58252 KETOTIFENO_SOL_120ML 29/08/2022 VENCIDO
+                                   95196 DIGOXINA_0.250_MG_C/24 14/08/2022 VENCIDO
+                                   83801 CEFACLOR_125_MG_SUSP 17/08/2022 VENCIDO
+10) 93961840 Pairazaman/Tatiana                                    91282 LEVONORGESTREL_1.5MG_/1_TAB 13/11/2022 VENCIDO
+                                   54692 NAFAZOLINA_SOL_OFT_15_ml 3/03/2023 VENCIDO
+10) 36471787 Pena/Glenda                                    55701 EUCALIPTO_GUAYACOL_PERLAS30 2/02/2023 VENCIDO
+                                   82528 LORATADINA_T/10_10MG 4/01/2023 VENCIDO
+                                   85325 AMOXICILINA_250MG_C12 1/08/2022 VENCIDO
+                                   46000 HIDROX_MAGNESIO+ALUMINIO_240ML 1/10/2022 VENCIDO
+                                   25684 DEXAMETASONA_0.5MG_T/30 18/03/2023 VENCIDO
+Medico: FRANCISCO_ZIMIC_SALAS_Endocrinologia[LE20189]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 62126128 Durand/Enrique                                    16055 AMBROXOL_C/20_TAB 27/08/2022 VENCIDO
+10) 51642949 Miranda/Alfonso                                    92628 KETOPROFENO_100MG_C15 30/03/2023 VENCIDO
+                                   36622 TEOFILINA_20_TAB/100_MG 15/03/2023 VENCIDO
+                                   83510 FUROSEMIDA_40_MG_C/20 8/11/2022 VENCIDO
+                                   49685 PINAVERIO_BROMURO_DE_100_MG_14T 6/02/2023 VENCIDO
+                                   28992 ALUMUMINIO+MAGNESIO_SUSP_240ML 12/03/2023 VENCIDO
+10) 41964357 Arca/Magali                                    97465 GLIBENCLAMIDA_5_MG_C/50 17/09/2022 VENCIDO
+10) 20371464 Lozada/Heli                                    73174 VITAMINA_P/DIABETICOS_30T 30/03/2023 VENCIDO
+10) 93282118 Zambrano/Ofelia                                    60086 METAMISOL_500_MG_T10 29/08/2022 VENCIDO
+                                   70303 AZITROMICINA_SUSP 21/01/2023 VENCIDO
+                                   39779 OMEPRAZOL_20_MG_C/14 27/01/2023 VENCIDO
+                                   30690 VITAMINAS_EMBARAZO_9_MESES_C30 9/09/2022 VENCIDO
+                                   40862 YODOPOVIDONA_120ML 3/08/2022 VENCIDO
+10) 52313890 Rivero/Wilver                                    58200 FLUCONAZOL_150MG._1C 27/11/2022 VENCIDO
+                                   72969 ISOSORBIDE_10MG_T/20 6/02/2023 VENCIDO
+                                   57036 OXOLAMINA_JBE_100ML 15/10/2022 VENCIDO
+                                   42053 TRETINOINA_30G_CREMA_0.05% 1/08/2022 VENCIDO
+                                   88681 NIFEDIPINO_30_MG_30_CPS 18/03/2023 VENCIDO
+10) 93961840 Pairazaman/Tatiana                                    81333 CARNITINA_C/30 14/09/2022 VENCIDO
+                                   16299 AZITROMICINA_500MG_C/3T 18/12/2022 VENCIDO
+10) 86988155 Cerna/Cinthia                                    74680 FENITOINA_T50_100MG 22/11/2022 VENCIDO
+                                   39779 OMEPRAZOL_20_MG_C/14 27/01/2023 VENCIDO
+10) 85395219 Fuentes/Patricia                                    17804 PIROXICAM_30_GM_CRA 6/02/2023 VENCIDO
+                                   37007 DIFENHIDRAMINA_250MG_JBE_120ML 17/08/2022 VENCIDO
+10) 71422479 Lozada/Felicita                                    75565 MICONAZOL_20_GR_CRA 23/09/2022 VENCIDO
+                                   86476 KETOTIFENO_C/30 26/01/2023 VENCIDO
+                                   31189 CEFADROXILO_500MG_C/16CAP 3/12/2022 VENCIDO
+                                   22232 LEVETIRACETAM 12/02/2023 VENCIDO
+                                   70116 LACTULOSA_125ML 18/04/2023 VENCIDO
+Medico: ALFONSO_WALDEMAR_CABELLO_LAM_Cardiologia[YR30082]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 77440060 Escalante/Emigdio                                    43222 AMBROXOL_GOTAS_30ML 26/08/2022 VENCIDO
+                                   76238 BEZOCAINA_10GR_GEL 7/04/2023 VENCIDO
+                                   36711 TIBOLONA_2.5MG_30T 29/08/2022 VENCIDO
+10) 62126128 Durand/Enrique                                    49685 PINAVERIO_BROMURO_DE_100_MG_14T 6/02/2023 VENCIDO
+                                   77466 RAMIPRIL_16_TAB/5_MG 2/08/2022 VENCIDO
+10) 35606314 Mercado/Elia                                    11592 TERBINAFINA_1%_CRA_20_GR 11/01/2023 VENCIDO
+                                   63555 FAMOTIDINA_20MG_30C 5/12/2022 VENCIDO
+10) 54815159 Patino/Delicia                                    34070 FEXOFENADINA_C/10_180MG 18/03/2023 VENCIDO
+                                   73174 VITAMINA_P/DIABETICOS_30T 30/03/2023 VENCIDO
+                                   82469 GUAYACOL_AMPOLLETA_1ML 11/04/2023 VENCIDO
+                                   39779 OMEPRAZOL_20_MG_C/14 27/01/2023 VENCIDO
+10) 77324146 Moscoso/Janet                                    88994 FENITOINA_SODICA_7.5MG_120ML 28/03/2023 VENCIDO
+                                   34066 SULINDACO_200MG/20_TAB 14/12/2022 VENCIDO
+                                   16359 NAPROXENO_250_MG_TAB_C/30 24/04/2023 VENCIDO
+                                   67415 FINASTERIDA_5MG_30T 22/12/2022 VENCIDO
+10) 65912822 Camacho/Ydali                                    88681 NIFEDIPINO_30_MG_30_CPS 18/03/2023 VENCIDO
+10) 22598563 Sueldo/Adria                                    58252 KETOTIFENO_SOL_120ML 29/08/2022 VENCIDO
+10) 12484697 Diaz/Enrique                                    48039 TRAMADOL_100MG_5AMP 13/09/2022 VENCIDO
+                                   94429 TIAMAZOL_5MG_20T 27/10/2022 VENCIDO
+                                   93578 SUCRALFATO_40_TAB/1G 8/11/2022 VENCIDO
+10) 72330000 Vega/Carmela                                    92628 KETOPROFENO_100MG_C15 30/03/2023 VENCIDO
+                                   70116 LACTULOSA_125ML 18/04/2023 VENCIDO
+                                   53200 VITAMINA+OMEGA_3_30T 16/08/2022 VENCIDO
+                                   30430 PRUEBA_DE_EMBARAZO 10/08/2022 VENCIDO
+10) 93939698 Henriquez/Silvana                                    72061 DEFLAZACORT_30MG_10T 15/09/2022 VENCIDO
+                                   95196 DIGOXINA_0.250_MG_C/24 14/08/2022 VENCIDO
+                                   26754 SILDENAFIL_50MG_C/1-TAB 25/10/2022 VENCIDO
+Medico: ESTEFANIA_ZEGARRA_CASANOVA_Pediatria[ES50718]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 66091742 Baca/Milagros                                    40862 YODOPOVIDONA_120ML 3/08/2022 VENCIDO
+                                   90198 NITROFURAL_6MG_6/OV 1/08/2022 VENCIDO
+                                   41403 VITAMINAS_Y_MINERALES_30-30T 18/11/2022 VENCIDO
+                                   43633 ERITROMICINA_T_250_MG_C/20 15/12/2022 VENCIDO
+                                   32486 BENZOCAINA_FRAMBUESA_C/24 29/11/2022 VENCIDO
+10) 35852072 Jauregui/Victor                                    82469 GUAYACOL_AMPOLLETA_1ML 11/04/2023 VENCIDO
+                                   25684 DEXAMETASONA_0.5MG_T/30 18/03/2023 VENCIDO
+                                   47697 CLINDAMICINA_300_MG_C/16 6/08/2022 VENCIDO
+                                   81960 CEFALEXINA_500MG_C/20_CAP 9/02/2023 VENCIDO
+                                   72495 ACIDO_GLUTAMICO_600_MG_C/100 4/10/2022 VENCIDO
+10) 13731806 Salamanca/Virginia                                    36208 ENALAPRIL_T/30_10MG 24/08/2022 VENCIDO
+                                   26484 DILTIAZEM_30_TAB/30_MG 29/08/2022 VENCIDO
+                                   80830 COMPLEJO_B_T30 9/08/2022 VENCIDO
+                                   75565 MICONAZOL_20_GR_CRA 23/09/2022 VENCIDO
+Medico: MILENA_CINTHIA_ZARATE_ACUNA_Traumatologia[HW52063]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 15290194 Hernandez/Guillermo                                    38648 PENICILINA_V_POT_400000U_20T 9/08/2022 VENCIDO
+                                   90198 NITROFURAL_6MG_6/OV 1/08/2022 VENCIDO
+                                   49157 RANITIDINA_300_MG_C/10 4/08/2022 VENCIDO
+                                   68610 CALCITRIOL_0.25MCG_50_CAP 26/04/2023 VENCIDO
+                                   40997 ELECTROLIT_PED_FRESA_625ML 2/04/2023 VENCIDO
+10) 51642949 Miranda/Alfonso                                    16299 AZITROMICINA_500MG_C/3T 18/12/2022 VENCIDO
+                                   88994 FENITOINA_SODICA_7.5MG_120ML 28/03/2023 VENCIDO
+                                   41403 VITAMINAS_Y_MINERALES_30-30T 18/11/2022 VENCIDO
+10) 22598563 Sueldo/Adria                                    61211 OFLOXACINO_400_MG_C/8 28/02/2023 VENCIDO
+                                   37007 DIFENHIDRAMINA_250MG_JBE_120ML 17/08/2022 VENCIDO
+                                   81062 PAROXETINA_T/10_20MG 16/01/2023 VENCIDO
+10) 93231760 Zarate/Alexander                                    92628 KETOPROFENO_100MG_C15 30/03/2023 VENCIDO
+                                   86476 KETOTIFENO_C/30 26/01/2023 VENCIDO
+                                   70116 LACTULOSA_125ML 18/04/2023 VENCIDO
+                                   90300 FLUOXETINA_20_MG_C/14 29/08/2022 VENCIDO
+10) 35852072 Jauregui/Victor                                    80839 CARBAMAZEPINA_120ML_SUSP 19/08/2022 VENCIDO
+                                   31189 CEFADROXILO_500MG_C/16CAP 3/12/2022 VENCIDO
+                                   84555 PARACETAMOL_300MG_C/5_SUP 4/04/2023 VENCIDO
+                                   40862 YODOPOVIDONA_120ML 3/08/2022 VENCIDO
+10) 71422479 Lozada/Felicita                                    76360 DICLOXACILINA_250_MG_C20 22/08/2022 VENCIDO
+                                   55439 FUMARATO_FERROSO_SUSP_120ML 7/11/2022 VENCIDO
+                                   22842 AMIKACINA_500MG_C/1_AMP 5/08/2022 VENCIDO
+                                   40862 YODOPOVIDONA_120ML 3/08/2022 VENCIDO
+10) 15290194 Hernandez/Guillermo                                    70116 LACTULOSA_125ML 18/04/2023 VENCIDO
+10) 54149342 Leyva/Diana                                    88266 PREDNISONA_20MG_C30_TAB_GI 10/03/2023 VENCIDO
+10) 62287143 Wong/Beatriz                                    61295 QUINFAMIDA_100_MG_3TAB 18/08/2022 VENCIDO
+Medico: VICTORIA_FIORELLA_CUBA_POMAJAMBO_Gastroenterologia[GY80063]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 58643376 Arroyo/Natalia                                    16055 AMBROXOL_C/20_TAB 27/08/2022 VENCIDO
+                                   79996 LANSOPRAZOL_15_MG_C/14 23/08/2022 VENCIDO
+                                   54692 NAFAZOLINA_SOL_OFT_15_ml 3/03/2023 VENCIDO
+                                   46919 VITAMINA_C_C20_TAB_100MG 16/01/2023 VENCIDO
+                                   70950 LIDOCAINA_10%_115ML_SPRAY 16/08/2022 VENCIDO
+10) 13731806 Salamanca/Virginia                                    77203 ONDANSETRON_8MG_C10T 8/08/2022 VENCIDO
+                                   11370 KETOROLACO_4T_30MG_SUBLINGUAL 25/02/2023 VENCIDO
+10) 51465986 Sam/Ines                                    59121 DESLORATADINA_5MG_10T 9/09/2022 VENCIDO
+                                   81821 AMIODARONA_200MG_T20 21/11/2022 VENCIDO
+                                   55439 FUMARATO_FERROSO_SUSP_120ML 7/11/2022 VENCIDO
+10) 15290194 Hernandez/Guillermo                                    26506 ITRACONAZOL_100_MG_C/15 18/08/2022 VENCIDO
+                                   88994 FENITOINA_SODICA_7.5MG_120ML 28/03/2023 VENCIDO
+                                   95540 NAPROXENO_500_MG_C/10_TAB 12/10/2022 VENCIDO
+                                   65667 SUBSALICILATO/BISMUTO_SUSP_120ML 29/11/2022 VENCIDO
+                                   36711 TIBOLONA_2.5MG_30T 29/08/2022 VENCIDO
+10) 54815159 Patino/Delicia                                    74680 FENITOINA_T50_100MG 22/11/2022 VENCIDO
+                                   86828 FENAZOPIRIDINA_100_MG_C/20_TAB 11/08/2022 VENCIDO
+                                   36622 TEOFILINA_20_TAB/100_MG 15/03/2023 VENCIDO
+                                   70225 CEFTRIAXONA_1.0GR_IM_G_I 4/12/2022 VENCIDO
+10) 94683380 Farfan/Margot                                    30690 VITAMINAS_EMBARAZO_9_MESES_C30 9/09/2022 VENCIDO
+                                   81695 LECHE_DE_MAGNESIA_180ML 3/03/2023 VENCIDO
+10) 72330000 Vega/Carmela                                    68730 MELOXICAM_7.5_MG_C/14 26/10/2022 VENCIDO
+                                   59395 VITAMINICO_GERIATRICO_C30 11/08/2022 VENCIDO
+                                   36649 CITALOPRAM_20MG_14T 10/08/2022 VENCIDO
+                                   53166 ASTEMIZOL_SUSP_200MG 17/08/2022 VENCIDO
+Medico: ROSARIO_TABORI_ARIAS_Oftalmologia[JL19777]             Especialidad: Ginecologia
+--------------------------------------------------------------------------------
+   Pacientes atendidos                             Mediciinas recibidas
+--------------------------------------------------------------------------------
+   DNI      Nombre         Cantidad Codigo     Descripcion       FV        Obs. 
+--------------------------------------------------------------------------------
+10) 52313890 Rivero/Wilver                                    17845 GINKO_YANG_CAPS_C/30 16/08/2022 VENCIDO
+10) 77324146 Moscoso/Janet                                    45814 ERITROMICINA_250MG_SUSP 1/12/2022 VENCIDO
+                                   81695 LECHE_DE_MAGNESIA_180ML 3/03/2023 VENCIDO
+                                   30007 DICLOFENACO_SODICO_1MG_GTS_5_ML 30/10/2022 VENCIDO
+                                   48557 NAPROXENO_SODICO_100/2.5_SUSP 18/03/2023 VENCIDO
+                                   77203 ONDANSETRON_8MG_C10T 8/08/2022 VENCIDO
+10) 35852072 Jauregui/Victor                                    88681 NIFEDIPINO_30_MG_30_CPS 18/03/2023 VENCIDO
+                                   55813 SALBUTAMOL_4MG_T30 22/08/2022 VENCIDO
+10) 93282118 Zambrano/Ofelia                                    25684 DEXAMETASONA_0.5MG_T/30 18/03/2023 VENCIDO
+                                   53846 CLENBUTEROL_.02MG_50T 7/03/2023 VENCIDO
+                                   17845 GINKO_YANG_CAPS_C/30 16/08/2022 VENCIDO
+10) 62287143 Wong/Beatriz                                    94459 VALPROATO_DE_MAGNESIO_SUSP 4/08/2022 VENCIDO
+                                   16359 NAPROXENO_250_MG_TAB_C/30 24/04/2023 VENCIDO
+                                   73174 VITAMINA_P/DIABETICOS_30T 30/03/2023 VENCIDO
+10) 12484697 Diaz/Enrique                                    17645 KETOKONAZOL_CRA_30GR 12/08/2022 VENCIDO
+                                   81960 CEFALEXINA_500MG_C/20_CAP 9/02/2023 VENCIDO
+10) 51465986 Sam/Ines                                    43633 ERITROMICINA_T_250_MG_C/20 15/12/2022 VENCIDO
+                                   94415 PRAVASTATINA_10_MG_C/15 19/08/2022 VENCIDO
+                                   47697 CLINDAMICINA_300_MG_C/16 6/08/2022 VENCIDO
+                                   16299 AZITROMICINA_500MG_C/3T 18/12/2022 VENCIDO
+10) 62287143 Wong/Beatriz                                    15098 LISINA_CLOHRIDRATO_125MG_T10 16/09/2022 VENCIDO
+                                   40862 YODOPOVIDONA_120ML 3/08/2022 VENCIDO
