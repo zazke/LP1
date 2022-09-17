@@ -1,10 +1,10 @@
 /* Objetivos:
- * - <iostream>
- * - <iomanip>
+ * - <iostream>: cin y cout
+ * - <iomanip>: formato
  * - Redireccionamiento stdin y stdout
  * - operadores << y >> 
  * - No arreglos ("puro archivo")
- * - No lectura de C.  (E.g., get(), getline(), unget())
+ * - No lectura ni escritura de C.  (E.g., get(), getline(), unget(), printf())
  */
 
 #include "fun.h"
