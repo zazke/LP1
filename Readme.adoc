@@ -1,4 +1,4 @@
-= Unofficial LP1 test repository
+= Unofficial repository for LP1 tests
 Mitsuo
 2022-09-09
 :source-highlighter: highlight.js
@@ -13,14 +13,14 @@ please open a Pull Request following the directory structure:
 
 == Tips
 
-*Debugging*
+=== Debugging
 
 Prof. Guanira states it clearly in "Guia de Creacion Ejecucion y
 Depuracion.pdf":
 
 image::img/ss_20220916_200135.png[Debugging is essential]
 
-*Formatting*
+=== Formatting
 
 In my opinion, using
 https://cplusplus.com/reference/library/manipulators/[
