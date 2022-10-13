@@ -26,9 +26,10 @@ Example implementation:
 
 /* Stream manipulator macros
  * =========================
- *
- * Requires <iostream> and <iomanip>
  */
+
+#include <iostream>
+#include <iomanip>
 
 // The parenthesis in C/C++ macros are best practice
 // https://stackoverflow.com/q/7186504/7498073
@@ -62,8 +63,6 @@ Example usage:
 /* Example usage 
  * ============= */
 
-#include <iostream>
-#include <iomanip>
 #include "aux.h"      // It's easier to import a single .h to many .cpp files
 
 using namespace std;
