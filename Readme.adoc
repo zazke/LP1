@@ -22,96 +22,11 @@ image::img/ss_20220916_200135.png[Debugging is essential]
 
 === Formatting
 
-In my opinion, using
+Using
 https://cplusplus.com/reference/library/manipulators/[
 stream manipulators] and
 https://cplusplus.com/reference/ios/ios_base/fmtflags/[
-stream format flags] is cumbersome, but the course _requires_ it’s use (using
-`printf` is not allowed). So maybe the following macro eases it’s use.
+stream format flags] can be cumbersome, but the course _requires_ them since
+using `printf` is not allowed. So maybe macros can be helpful here.
 
-[source,c++]
-----
-// [aux.h]
-
-/* Stream manipulator macros
- * =========================
- *
- * Requires <iostream> and <iomanip>
- */
-
-// The parenthesis in C/C++ macros are best practice
-// https://stackoverflow.com/q/7186504/7498073
-
-// Width-Left (use with strings)
-#define WL(w)           " " << setw((w)-1) << left << setprecision(2) << fixed
-
-// Width-Right (use with numbers)
-#define WR(w)           setw(w) << right << setprecision(2) << fixed
-
-// Width-Right-0-padding
-#define WR0(w, w0, x)   setw((w) - (w0)) << "" \
-                        << setw(w0) << right << setfill('0') \
-                        << setprecision(2) << fixed << (x) \
-                        << setfill(' ')
-
-// Width-Date (dd/mm/yyyy format)
-#define WD(w, x)        setw((w) - 10) << "" << WR0(2, 2, (x) % 100) \
-                        << '/' << WR0(2, 2, (x) / 100 % 100) \
-                        << '/' << WR0(4, 4, (x) / 10000)
-----
-
-Example usage:
-
-[source, c++]
-----
-//[example.cpp]
-#include <iostream>
-#include <iomanip>
-#include "aux.h"      // easier to import a single .h to any .cpp
-#define MAXLEN          100
-using namespace std;
-typedef struct { 
-    int id;
-    const char name[MAXLEN];
-    double luckynumber;
-    int dob;    // date of birth
-} student_t;
-// dd/mm/yyyy
-void printdate(ostream &os, int date) {
-    int d = date % 100;
-    int mo = date / 100 % 100;
-    int y = date / 10000;
-    os << " " << WR0(2, 2, d) 
-       << '/' << WR0(2, 2, mo)
-       << '/' << WR0(4, 4, y);
-}
-int main(int argc, char *argv[]) 
-{
-    student_t students[] = {
-        {1, "Ana Ambooken", 69.420, 19990606},
-        {2, "Bob Banana", 666.66, 19760411},
-        {3, "Carlos Clear", 123.456, 20000101}
-    };
-    int n = 3;
-
-    for (int i = 0; i < n; i++) {
-        cout << WR0(8, 4, students[i].id)
-             << WL(40) << students[i].name
-             << WR(8) << students[i].luckynumber;
-        cout << WD(12, students[i].dob);
-        cout << '\n';
-    }
-    return 0;
-}
-
-----
-
-Output:
-
-----
-    0001 Ana Ambooken                              69.42  06/06/1999
-    0002 Bob Banana                               666.66  11/04/1976
-    0003 Carlos Clear                             123.46  01/01/2000
-----
-
-NOTE: Macros are useful, but don't abuse them. They are hard to debug.
+See link:tips/formatting.adoc[] for an example implementation and usage.

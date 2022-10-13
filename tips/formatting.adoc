@@ -1,0 +1,104 @@
+:source-highlighter: highlight.js
+
+To print tabulated fields in plain text I first divide the desired ouput by the
+number of columns each field should take.  For example:
+
+----
+    dni         name                 birdthdate
+    12345678 Ana Allen               12/10/1998
+<- 12 col -><------ 24 col --------><- 12 col ->
+----
+
+I like to use multiples of 4, but multiples of 8 or 10 are good options too.
+The nice thing about 4 is that it aligns with my text editor's default tabstop
+setting.  It helps when writting report headers.
+
+NOTE: Left-aligned fields after a right-aligned field need a space in  
+      between.  I like to just add the space to all left-aligned fields.
+
+WARNING: Macros are useful, but don't abuse them. They are hard to debug.
+
+Example implementation:
+
+[source,c++]
+----
+//[aux.h]
+
+/* Stream manipulator macros
+ * =========================
+ *
+ * Requires <iostream> and <iomanip>
+ */
+
+// The parenthesis in C/C++ macros are best practice
+// https://stackoverflow.com/q/7186504/7498073
+
+// Width-Left (use with strings)
+#define WL(w)           " " << setw((w) - 1) << left << setprecision(2) << fixed
+
+// Width-Right (use with numbers)
+#define WR(w)           setw(w) << right << setprecision(2) << fixed
+
+// Width-Right-0-padding
+#define WR0(w, w0, x)   setw((w) - (w0)) << "" \
+                        << setw(w0) << right << setfill('0') \
+                        << setprecision(2) << fixed << (x) \
+                        << setfill(' ')
+
+// Width-Left-Date (dd/mm/yyyy format)
+#define WLD(w, x)       setw((w) - 10) << "" << WR0(2, 2, (x) % 100) \
+                        << '/' << WR0(2, 2, (x) / 100 % 100) \
+                        << '/' << WR0(4, 4, (x) / 10000)
+                        
+#define MAXLEN          100
+----
+
+Example usage:
+
+[source, c++]
+----
+//[example.cpp]
+
+/* Example usage 
+ * ============= */
+
+#include <iostream>
+#include <iomanip>
+#include "aux.h"      // It's easier to import a single .h to many .cpp files
+
+using namespace std;
+
+typedef struct { 
+    int id;
+    const char name[MAXLEN];
+    double luckynumber;
+    int dob;    // date of birth
+} student_t;
+
+int main(int argc, char *argv[]) 
+{
+    student_t students[] = {
+        {1, "Ana Ambooken", 69.420, 19990606},
+        {2, "Bob Banana", 666.66, 19760411},
+        {3, "Carlos Clear", 123.456, 20000101}
+    };
+    int n = 3;
+
+    for (int i = 0; i < n; i++) {
+        cout << WR0(8, 4, students[i].id)
+             << WL(40) << students[i].name
+             << WR(8) << students[i].luckynumber;
+        cout << WLD(12, students[i].dob);
+        cout << '\n';
+    }
+    return 0;
+}
+----
+
+Output:
+
+----
+    0001 Ana Ambooken                              69.42  06/06/1999
+    0002 Bob Banana                               666.66  11/04/1976
+    0003 Carlos Clear                             123.46  01/01/2000
+----
