@@ -1,0 +1,1 @@
+Si se puede usar friend para la clase Nodo (su clase amiga es Arbol).
