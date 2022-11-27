@@ -1,0 +1,19 @@
+timestamps: 
+- 11:15 (start)
+- 11:35 read enunciado
+- 11:58 boilerplate classes done
+- 12:23 read medicos (slow)
+- 13:24 read sinreceta and conreceta (also print test)
+- 13:28 print report
+- 13:40 search medicamento name
+- 13:43 search medico specialty (end pregunta1)
+- 13:48 copy project (end pregunta2) (literally the same)
+
+total time: 2h 33m
+
+
+La pregunta 2 es literalmente copiar el proyecto (se puede hacer directamente en
+NetBeans).  Entonces, los ultimos 5pts se pueden conseguir en menos de 5m, si es
+que se termina la pregunta 1 en menos de 2h  (no es mi caso esta vez).
+
+Como la pregunta 2 es lo mismo que la pregunta 1, la he borrado.

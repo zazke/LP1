@@ -1,12 +1,12 @@
-* L1: 
-* L2: 
-* L3: 
-* L4: 
-* L5: 
+* L1: Input/Output (I/O)
+* L2: I/O
+* L3: Functions and scope, static library creation and use
+* L4: Arrays and pointers, "asignación de memoria exacta"
+* L5: Arrays and pointers, "asignación de memoria por incrementos"
 * E1: 
-* L6: `Void*`
-* L7: 
-* L8: 
-* L9: 
-* L10: 
+* L6: `Void*` and Abstract Data Types (ADT)
+* L7: Object Oriented Programming (OOP), overloaded operators
+* L8: Inheritance (OOP)
+* L9: Polymorphism (OOP)
+* L10: Self referenced class (Binary Search Tree)
 * E2: 
