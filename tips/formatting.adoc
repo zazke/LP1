@@ -35,7 +35,7 @@ Example implementation:
 // https://stackoverflow.com/q/7186504/7498073
 
 // Width-Left (use with strings)
-#define WL(w)           " " << setw((w) - 1) << left << setprecision(2) << fixed
+#define WL(w)           " " << setw((w) - 1) << left
 
 // Width-Right (use with numbers)
 #define WR(w)           setw(w) << right << setprecision(2) << fixed
@@ -51,7 +51,10 @@ Example implementation:
                         << '/' << WR0(2, 2, (x) / 100 % 100) \
                         << '/' << WR0(4, 4, (x) / 10000)
                         
+// (for character arrays)
 #define MAXLEN          100
+// (for static arrays of items)
+#define MAXITEMS        1000
 ----
 
 Example usage:
