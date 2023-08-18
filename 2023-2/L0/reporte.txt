@@ -1,0 +1,39 @@
+No.  Codigo  Nombre                          Autor                           Cant.   Precio   
+----------------------------------------------------------------------------------------------
+01) QV96140 EL DUQUE EN SU TERRITORIO       Fiorella Florencio Polo           12       37.47
+02) KC34197 LAS DEMOLICIONES DE PARIS       Zkenia Chung Zuniga               10      294.26
+03) VA35843 L-ECOLE DES MENAGES             Walter  Jolay Chumpitaz           14      234.01
+04) XN48844 THE COUNTESS DE CHARNY          Rosario Tabori Arias              30      265.70
+05) IW10872 EL CLUB DE LOS EXPLOTADORES     Cesar Rodriguez Serrano            5      263.45
+06) ZR63735 ELOGIO DE LA MADRASTRA          Julio  Vilcara Jugo               26      185.88
+07) FY25192 LA HERMOSA JARDINERA            Humberto Amezquita Contreras       8      113.40
+08) OC73472 LE COUSIN PONS                  Jaime Shirakawa Florian           30      413.61
+09) QE47018 EL MANUSCRITO DEL DOMINO        Raul  Collado Villa                1      276.71
+10) UW23132 HOUSE OF POMEGRANATES           David Perez Antezano               8      441.52
+11) SV17719 LE COLONEL CHABERT              Cinthia Zegarra Cabello            9       51.20
+12) SA04133 AN IDEAL HUSBAND                Delicia  Norabuena Zegarra        11      239.17
+13) SK15788 LE CHEF-D OEUVRE INCONNU        Blanca Acuna Ayllon               22      112.52
+14) JO84937 HISTORIA DE MAYRA               Valentina Urbina Antezano         27       53.48
+15) NF53199 SUSPENSE                        Emilio Gonzales Aguirre           17      367.64
+16) BB35881 UNA NAVIDAD                     Edilberto Mori Suarez              4       32.80
+17) XW06135 THE NUTCRACKER                  Humberto Vargas Guevara            4       77.27
+18) QO90975 LA PEAU DE CHAGRIN              Janet Aranda Minaya               30      158.03
+19) TA81777 MUSICA PARA CAMALEONES          Luz Jauregui Bravo                 3      218.59
+20) FW74175 LA COUSINE BETTE                Surami Preciado Pinto             18      279.44
+21) OT07742 LA FILLE AUX YEUX D-OR          Alfonso Cabello Lam               13      195.87
+22) PL70268 LADY -- WINDERMERES FAN         Victor Garcia Astete               4      329.24
+23) QA53897 THE CORSICAN BROTHERS           Ofelia Mercado Caro                8       62.87
+24) ZQ38637 LA CASA GRADE                   Delicia  Arca Aquino               7      214.72
+25) PT00038 EL NINO PERDIDO                 Giovana  Mejia Zegarra             3       80.23
+26) FY82455 LA GUERRA DEL FIN DE SIGLO      Milena Zarate Acuna               13      352.36
+27) KW25071 LA RESURRECCIóN DE ROCAMBOLE   Francisco  Zimic Salas             4      313.22
+28) ZK87496 BEAT THE DEVIL                  Miguel Landeo Estrada             19      178.81
+29) BH96036 LOS TESOROS DEL RAJAH           Delicia Arca Leiva                 6      360.73
+30) LM05731 LE CHEVALIER DE MAISON - ROUGE  Yliana Ortiz Guevara              12      352.26
+31) XQ03477 LES RESSOURCES DE QUINOLA       Johan Ayala Zevallos              19      369.37
+32) ZM20053 THE FENCING MASTER              Felicita Castillo Chung            5       26.41
+33) MG75057 UN VIAJE DE 75 DIAS             Victoria Shirakawa Saona          18      350.67
+
+
+Total cantidad libros: 420
+Total valor libros: 97236.25
