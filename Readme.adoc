@@ -3,17 +3,34 @@ Mitsuo
 2022-09-09
 :source-highlighter: highlight.js
 
-The shortest and most readable code wins!
-
 Contributions are very welcomed and needed, if you want to contribute
 please open a Pull Request following the directory structure:
 
+An effort is made to have the code be concise and readable.
+
  semester/L#/submitter's name/
 
+NOTE: I won't include the PDFs with the problem statement because I don't have
+permission to share them publicly on the internet.  If you have a PUCP
+email, you can access to
+https://facultad.pucp.edu.pe/ingenieria/agrupaciones/asociacion-alumnos-ingenieria-informatica-aaii-pucp/[AAII]'s
+https://drive.google.com/drive/folders/0B8DUIB5m9fukVHZhX1pRZFhHY2M?resourcekey=0-_ODdPfSHMCyE6heWHij3Hg&usp=drive_link[Google Drive]
+, you can find the some PDFs there.
 
 == Tips
 
 === Debugging
+
+You should definitly make effective use the debugging tools from the IDE
+(breakpoints, keybindings, call stack, watches, expressions).
+Otherwise you are just waisting your time.  Most IDE either use
+https://en.wikipedia.org/wiki/GNU_Debugger[GDB] or
+https://en.wikipedia.org/wiki/LLDB_(debugger)[LLDB], and they share most of the
+basic concepts.  You can https://www.youtube.com/watch?v=Dq8l1_-QgAc[learn the basics] 
+fast and start **practicing**.
+
+(Many times, the compilation or runtime error message is not helpful at all or
+borderline cryptic.  Debugging tools help a lot.)
 
 Prof. Guanira states it clearly in "Guia de Creacion Ejecucion y
 Depuracion.pdf":
