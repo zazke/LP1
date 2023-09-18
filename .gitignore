@@ -4,6 +4,9 @@ dist/
 nbproject/
 .dep.inc
 
+# VSCode
+.vscode/
+
 # C/C++
 *.out
 tags
@@ -12,3 +15,6 @@ tags
 *.html
 /2022-2/L8/mitsuo/LAB08_PREG01/dist/
 *.pdf
+
+# Python 
+.venv/

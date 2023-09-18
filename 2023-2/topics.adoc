@@ -1,0 +1,14 @@
+* L0: Input/Output (I/O), text formatting
+* L1: Static libraries
+* L2: Arrays and pointers, "asignación de memoria exacta"
+* L3: 
+* L4: 
+* L5: 
+* LA: past mid-term exam solution
+* E1: 
+* L6: 
+* L7: 
+* L8: 
+* L9: 
+* L10: 
+* E2: 

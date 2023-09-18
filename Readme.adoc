@@ -1,4 +1,4 @@
-= Unofficial repository for LP1 tests
+= Unofficial repository for past LP1 test solutions
 Mitsuo
 2022-09-09
 :source-highlighter: highlight.js
@@ -12,7 +12,8 @@ An effort is made to have the code be concise and readable.
 
 NOTE: I won't include the PDFs with the problem statement because I don't have
 permission to share them publicly on the internet.  If you have a PUCP
-email, you can access to
+email, you can either access
+https://drive.google.com/drive/folders/1RKKsj1GRmz3iO7aCXjGH1Rhiz9sD0eCZ?usp=drive_link[Prof. Cueva's Google Drive] or
 https://facultad.pucp.edu.pe/ingenieria/agrupaciones/asociacion-alumnos-ingenieria-informatica-aaii-pucp/[AAII]'s
 https://drive.google.com/drive/folders/0B8DUIB5m9fukVHZhX1pRZFhHY2M?resourcekey=0-_ODdPfSHMCyE6heWHij3Hg&usp=drive_link[Google Drive]
 , you can find the some PDFs there.
