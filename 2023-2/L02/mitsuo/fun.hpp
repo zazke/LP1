@@ -20,26 +20,4 @@ void agrega_pedidos_fecha(
 char **crea_producto(char * code, char * description);
 int busca_producto(char *** productos, char * producto);
 
-using namespace std;
-char * leeCad(ifstream &arch, char delim='\n');
-void cargaCodNomProducto(ifstream &arch, char **&buffProd, char *codProd);
-void imprimePedidos(ofstream &arch, char **producto, double stock, double precio);
-void leeDatos(ifstream &arch, int &dni, int &cant, int &fecha);
-int buscaFecha(int *buffFecha, int fecha);
-void cargaPedido(char **buffCodPed, char *codPed, int **&buffdniCant, 
-        int dni, int cant, int &numPed);
-int buscaPedido(char **buffCodPed, char *codPed);
-void sumaCantidad(int *buffdniCant, int cant);
-void guardaCliente(int *buffdniCant, int dni, int cant);
-void espaciosExactos(char **&codigoPedidos, int numPed);
-void espaciosExactos(int **&dniCantPed, int numPed);
-void imprimePedidos(ofstream &arch, char **codPed, int **dniCant);
-void imprimeCliente(ofstream &arch, int *cliente);
-void imprimeRepPedidos(ofstream &arch, char **codigoPedidos, int **dniCantPedidos,char ***prod, int *stock, 
-        double *precios, double &parcialIng, double &parcialFalta);
-void imprimePedido(ofstream &arch, char *codPed, char **prod, int &stock,
-                double precio, int *dniCantPed, double &parcialIng, double &parcialFalta);
-void imprimeLinea(ofstream &arch, char c);
-int buscaProd(char ***prod, char *codProd);
-
 #endif /* FUN_HPP */
