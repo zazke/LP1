@@ -1,30 +1,22 @@
 #include <iostream>
 #include <fstream>
-#include <typeinfo>
 
 #define MAXLEN 100
 
 using namespace std;
 
-/* Usando ostream (stream) */
-typedef struct {
-    int id;
-    const char name[MAXLEN];
-} student1_t;
+typedef struct {int i;} custom1_t;
+typedef struct {int i;} custom2_t;
 
-ostream& operator<<(ostream& os, student1_t rhs) {
-    os << "Student name: " << rhs.name;
-    return os;
+/* Usando ostream (stream) (good) */
+ostream& operator<<(ostream& os, custom1_t rhs) {
+    return os << "stream";
 }
 
-/* Usando oftream (file) */
-typedef struct {
-    int id;
-    const char name[MAXLEN];
-} student2_t;
-
-ofstream& operator<<(ofstream& os, student2_t rhs) {
-    os << "Student name: " << rhs.name;
+/* Usando oftream (file) (bad) */
+ofstream& operator<<(ofstream& os, custom2_t rhs) {
+    //return os << "file";        /* compiler complains */
+    os << "file";
     return os;
 }
 
@@ -34,14 +26,14 @@ int main() {
         cerr << "Error: no se pudo abrir el archivo\n";
         return 1;
     }
-    student1_t student1 = {1, "Ana Ambooken"};
-    student2_t student2 = {2, "Bob Banana"};
+    custom1_t t1 = {0};       // use stream
+    custom2_t t2 = {0};       // use fstream
 
-    out << student1 << "PUCP" << '\n';  // works
-    out << "PUCP" << student1 << '\n';  // works
+    out << t1 << "PUCP" << '\n';
+    out << "PUCP" << t1 << '\n';
 
-    out << student2 << "PUCP" << '\n';  // works
-    /* out << "PUCP" << student2 << '\n';  // breaks */
+    out << t2 << "PUCP" << '\n';
+    // out << "PUCP" << t2 << '\n';  // breaks
 
     return 0;
 }
