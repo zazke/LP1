@@ -18,3 +18,4 @@ tags
 
 # Python 
 .venv/
+.ipynb_checkpoints/
