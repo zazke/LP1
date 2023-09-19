@@ -1,7 +1,7 @@
 * L0: Input/Output (I/O), text formatting
 * L1: Static libraries
-* L2: Arrays and pointers, "asignación de memoria exacta"
-* L3: 
+* L2: Arrays and pointers, "asignación de memoria exacta" (stack memory) (*)
+* L3: "asignación de memoria dinamica" (heap memory) (**)
 * L4: 
 * L5: 
 * LA: past mid-term exam solution
@@ -12,3 +12,7 @@
 * L9: 
 * L10: 
 * E2: 
+
+Opinion on difficulty:
+(*): hard to do in 2h
+(**): very hard to do in 2h
