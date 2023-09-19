@@ -25,8 +25,8 @@ https://drive.google.com/drive/folders/0B8DUIB5m9fukVHZhX1pRZFhHY2M?resourcekey=
 Many times, compilation or runtime error messages are not helpful or
 borderline cryptic.  Debugging tools help a lot.  But narrowing down what
 component most likely failed is of **great** help.  Develop each "module"
-separately, compile and debug frecuently.  Make sure each "module" works OK
-before beginning the next.
+separately, compile and debug frequently.  Make sure each "module" works fine
+before moving to the next one.
 
 === Debugging
 
