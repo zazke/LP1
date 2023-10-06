@@ -2,7 +2,7 @@
 * L1: Static libraries
 * L2: Arrays and pointers, "asignación de memoria exacta" (stack memory) (*)
 * L3: "asignación de memoria dinamica" (heap memory) (**)
-* L4: 
+* L4: Generic (void) pointers
 * L5: 
 * LA: past mid-term exam solution
 * E1: 
