@@ -167,10 +167,37 @@ void cargapedidos(void *& productos, void * clientes) {
         agrega_pedido(pedidos, pedido);        // appends pedido to the list
     }
 
-    // trim     TODO
-    // for (i = 0; i < n; i++) {
-    //     ((void **) clientes)[i] = clientes_tmp[i];
-    // }
+    // trim extra spaces ("metodo exacto")
+    trim_cliente_pedidos(clientes);
+}
+
+void trim_cliente_pedidos(void * clientes) {
+    int i, j;
+    void ** cs = (void **) clientes;
+    for (i = 0; cs[i]; i++) {
+        void ** c = (void **) cs[i];
+        void ** pedidos = (void **) c[2];
+        if (!pedidos) {
+            continue;
+        }
+        // get length
+        for (j = 0; pedidos[j]; j++)
+            ;
+        int n = j;
+        // create new array and transfer items
+        void ** pedidos_tmp = new void * [n + 1];
+        for (j = 0; pedidos[j]; j++) {
+            pedidos_tmp[j] = pedidos[j];
+        }
+        pedidos_tmp[j] = NULL;
+        // delete old array and update cliente
+        // delete [] pedidos;
+        /* NOTE: crashes while freeing memory of pedidos of client with i=16 (dni=71984468), 
+                 I have no idea why.  Idk, using `void *` in this way is so
+                 tedious to debug that I'll just leave this comment here and
+                 move on.  If somebody every figures this out please let me know. */
+        c[2] = pedidos_tmp;
+    }
 }
 
 void ** busca_cliente(void * clientes, int dni) {

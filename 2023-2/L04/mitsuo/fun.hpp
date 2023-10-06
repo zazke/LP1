@@ -14,5 +14,6 @@ void imprimeclientes(void * clientes);
 void ** busca_cliente(void * clientes, int dni);
 void ** busca_producto(void * productos, char * code);
 void agrega_pedido(void * pedidos, void * pedido);
+void trim_cliente_pedidos(void * clientes);
 
 #endif  /* FUN_HPP */
