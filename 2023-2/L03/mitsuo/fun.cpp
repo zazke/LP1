@@ -34,12 +34,14 @@ void lecturaDeProductos(const char *archivo, char ***&productos, int *&stocks, d
         }
 
         // memory allocation "por incrementos"
-        if (i == size) {
+        if (i + 1 >= size) {
             increase_size_productos(productos, stocks, precios, size);
         }
         productos[i] = crea_producto(code, description);    // "code" is the "Primary Key" of the parallel arrays
         stocks[i] = qty;
         precios[i] = price;
+
+        productos[i + 1] = NULL;    /// last element of `productos` always points to NULL
     }
 }
 
