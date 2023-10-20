@@ -3,9 +3,11 @@
 * L2: Arrays and pointers, "asignación de memoria exacta" (stack memory) (*)
 * L3: "asignación de memoria dinamica" (heap memory) (**)
 * L4: Generic (void) pointers
-* L5: 
+* L5: Abstract data types (ADT) in C++
 * LA: past mid-term exam solution
-* E1: 
+* E1: (static libraries, memoria dinamica por incrementos, pointers and void pointers, function pointers, ADT: queue)
+      p1 ~ L3, p2 ~ L4, p3 ~ L5.
+* LB: (recuperación clase)
 * L6: 
 * L7: 
 * L8: 
@@ -13,6 +15,6 @@
 * L10: 
 * E2: 
 
-Opinion on difficulty:
-(*): hard to do in 2h
-(**): very hard to do in 2h
+Opinion on difficulty (labs: 2h, exam: 3h):
+(*): hard to do on time
+(**): very hard to do on time
